@@ -1,0 +1,18 @@
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.exe
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.pdb
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\Lidgren.Network.dll
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\Lidgren.Network.pdb
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\Lidgren.Network.xml
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.exe
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.exe.config
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.exe
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.exe
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\runefighterz-loginserver.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\Lidgren.Network.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\Lidgren.Network.xml
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\obj\Debug\runefighterz-loginserver.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\runefighterz-loginserver\runefighterz-loginserver\bin\Debug\config.ini

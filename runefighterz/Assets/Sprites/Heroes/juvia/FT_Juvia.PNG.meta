@@ -1,0 +1,3103 @@
+fileFormatVersion: 2
+guid: f1b9eae04beddae48a1c110342b9250c
+timeCreated: 1508425662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FT_Juvia_0
+    21300002: FT_Juvia_1
+    21300004: FT_Juvia_2
+    21300006: FT_Juvia_3
+    21300008: FT_Juvia_4
+    21300010: FT_Juvia_5
+    21300012: FT_Juvia_6
+    21300014: FT_Juvia_7
+    21300016: FT_Juvia_8
+    21300018: FT_Juvia_9
+    21300020: FT_Juvia_10
+    21300022: FT_Juvia_11
+    21300024: FT_Juvia_12
+    21300026: FT_Juvia_13
+    21300028: FT_Juvia_14
+    21300030: FT_Juvia_15
+    21300032: FT_Juvia_16
+    21300034: FT_Juvia_17
+    21300036: FT_Juvia_18
+    21300038: FT_Juvia_19
+    21300040: FT_Juvia_20
+    21300042: FT_Juvia_21
+    21300044: FT_Juvia_22
+    21300046: FT_Juvia_23
+    21300048: FT_Juvia_24
+    21300050: FT_Juvia_25
+    21300052: FT_Juvia_26
+    21300054: FT_Juvia_27
+    21300056: FT_Juvia_28
+    21300058: FT_Juvia_29
+    21300060: FT_Juvia_30
+    21300062: FT_Juvia_31
+    21300064: FT_Juvia_32
+    21300066: FT_Juvia_33
+    21300068: FT_Juvia_34
+    21300070: FT_Juvia_35
+    21300072: FT_Juvia_36
+    21300074: FT_Juvia_37
+    21300076: FT_Juvia_38
+    21300078: FT_Juvia_39
+    21300080: FT_Juvia_40
+    21300082: FT_Juvia_41
+    21300084: FT_Juvia_42
+    21300086: FT_Juvia_43
+    21300088: FT_Juvia_44
+    21300090: FT_Juvia_45
+    21300092: FT_Juvia_46
+    21300094: FT_Juvia_47
+    21300096: FT_Juvia_48
+    21300098: FT_Juvia_49
+    21300100: FT_Juvia_50
+    21300102: FT_Juvia_51
+    21300104: FT_Juvia_52
+    21300106: FT_Juvia_53
+    21300108: FT_Juvia_54
+    21300110: FT_Juvia_55
+    21300112: FT_Juvia_56
+    21300114: FT_Juvia_57
+    21300116: FT_Juvia_58
+    21300118: FT_Juvia_59
+    21300120: FT_Juvia_60
+    21300122: FT_Juvia_61
+    21300124: FT_Juvia_62
+    21300126: FT_Juvia_63
+    21300128: FT_Juvia_64
+    21300130: FT_Juvia_65
+    21300132: FT_Juvia_66
+    21300134: FT_Juvia_67
+    21300136: FT_Juvia_68
+    21300138: FT_Juvia_69
+    21300140: FT_Juvia_70
+    21300142: FT_Juvia_71
+    21300144: FT_Juvia_72
+    21300146: FT_Juvia_73
+    21300148: FT_Juvia_74
+    21300150: FT_Juvia_75
+    21300152: FT_Juvia_76
+    21300154: FT_Juvia_77
+    21300156: FT_Juvia_78
+    21300158: FT_Juvia_79
+    21300160: FT_Juvia_80
+    21300162: FT_Juvia_81
+    21300164: FT_Juvia_82
+    21300166: FT_Juvia_83
+    21300168: FT_Juvia_84
+    21300170: FT_Juvia_85
+    21300172: FT_Juvia_86
+    21300174: FT_Juvia_87
+    21300176: FT_Juvia_88
+    21300178: FT_Juvia_89
+    21300180: FT_Juvia_90
+    21300182: FT_Juvia_91
+    21300184: FT_Juvia_92
+    21300186: FT_Juvia_93
+    21300188: FT_Juvia_94
+    21300190: FT_Juvia_95
+    21300192: FT_Juvia_96
+    21300194: FT_Juvia_97
+    21300196: FT_Juvia_98
+    21300198: FT_Juvia_99
+    21300200: FT_Juvia_100
+    21300202: FT_Juvia_101
+    21300204: FT_Juvia_102
+    21300206: FT_Juvia_103
+    21300208: FT_Juvia_104
+    21300210: FT_Juvia_105
+    21300212: FT_Juvia_106
+    21300214: FT_Juvia_107
+    21300216: FT_Juvia_108
+    21300218: FT_Juvia_109
+    21300220: FT_Juvia_110
+    21300222: FT_Juvia_111
+    21300224: FT_Juvia_112
+    21300226: FT_Juvia_113
+    21300228: FT_Juvia_114
+    21300230: FT_Juvia_115
+    21300232: FT_Juvia_116
+    21300234: FT_Juvia_117
+    21300236: FT_Juvia_118
+    21300238: FT_Juvia_119
+    21300240: FT_Juvia_120
+    21300242: FT_Juvia_121
+    21300244: FT_Juvia_122
+    21300246: FT_Juvia_123
+    21300248: FT_Juvia_124
+    21300250: FT_Juvia_125
+    21300252: FT_Juvia_126
+    21300254: FT_Juvia_127
+    21300256: FT_Juvia_128
+    21300258: FT_Juvia_129
+    21300260: FT_Juvia_130
+    21300262: FT_Juvia_131
+    21300264: FT_Juvia_132
+    21300266: FT_Juvia_133
+    21300268: FT_Juvia_134
+    21300270: FT_Juvia_135
+    21300272: FT_Juvia_136
+    21300274: FT_Juvia_137
+    21300276: FT_Juvia_138
+    21300278: FT_Juvia_139
+    21300280: FT_Juvia_140
+    21300282: FT_Juvia_141
+    21300284: FT_Juvia_142
+    21300286: FT_Juvia_143
+    21300288: FT_Juvia_144
+    21300290: FT_Juvia_145
+    21300292: FT_Juvia_146
+    21300294: FT_Juvia_147
+    21300296: FT_Juvia_148
+    21300298: FT_Juvia_149
+    21300300: FT_Juvia_150
+    21300302: FT_Juvia_151
+    21300304: FT_Juvia_152
+    21300306: FT_Juvia_153
+    21300308: FT_Juvia_154
+    21300310: FT_Juvia_155
+    21300312: FT_Juvia_156
+    21300314: FT_Juvia_157
+    21300316: FT_Juvia_158
+    21300318: FT_Juvia_159
+    21300320: FT_Juvia_160
+    21300322: FT_Juvia_161
+    21300324: FT_Juvia_162
+    21300326: FT_Juvia_163
+    21300328: FT_Juvia_164
+    21300330: FT_Juvia_165
+    21300332: FT_Juvia_166
+    21300334: FT_Juvia_167
+    21300336: FT_Juvia_168
+    21300338: FT_Juvia_169
+    21300340: FT_Juvia_170
+    21300342: FT_Juvia_171
+    21300344: FT_Juvia_172
+    21300346: FT_Juvia_173
+    21300348: FT_Juvia_174
+    21300350: FT_Juvia_175
+    21300352: FT_Juvia_176
+    21300354: FT_Juvia_177
+    21300356: FT_Juvia_178
+    21300358: FT_Juvia_179
+    21300360: FT_Juvia_180
+    21300362: FT_Juvia_181
+    21300364: FT_Juvia_182
+    21300366: FT_Juvia_183
+    21300368: FT_Juvia_184
+    21300370: FT_Juvia_185
+    21300372: FT_Juvia_186
+    21300374: FT_Juvia_187
+    21300376: FT_Juvia_188
+    21300378: FT_Juvia_189
+    21300380: FT_Juvia_190
+    21300382: FT_Juvia_191
+    21300384: FT_Juvia_192
+    21300386: FT_Juvia_193
+    21300388: FT_Juvia_194
+    21300390: FT_Juvia_195
+    21300392: FT_Juvia_196
+    21300394: FT_Juvia_197
+    21300396: FT_Juvia_198
+    21300398: FT_Juvia_199
+    21300400: FT_Juvia_200
+    21300402: FT_Juvia_201
+    21300404: FT_Juvia_202
+    21300406: FT_Juvia_203
+    21300408: FT_Juvia_204
+    21300410: FT_Juvia_205
+    21300412: FT_Juvia_206
+    21300414: FT_Juvia_207
+    21300416: FT_Juvia_208
+    21300418: FT_Juvia_209
+    21300420: FT_Juvia_210
+    21300422: FT_Juvia_211
+    21300424: FT_Juvia_212
+    21300426: FT_Juvia_213
+    21300428: FT_Juvia_214
+    21300430: FT_Juvia_215
+    21300432: FT_Juvia_216
+    21300434: FT_Juvia_217
+    21300436: FT_Juvia_218
+    21300438: FT_Juvia_219
+    21300440: FT_Juvia_220
+    21300442: FT_Juvia_221
+    21300444: FT_Juvia_222
+    21300446: FT_Juvia_223
+    21300448: FT_Juvia_224
+    21300450: FT_Juvia_225
+    21300452: FT_Juvia_226
+    21300454: FT_Juvia_227
+    21300456: FT_Juvia_228
+    21300458: FT_Juvia_229
+    21300460: FT_Juvia_230
+    21300462: FT_Juvia_231
+    21300464: FT_Juvia_232
+    21300466: FT_Juvia_233
+    21300468: FT_Juvia_234
+    21300470: FT_Juvia_235
+    21300472: FT_Juvia_236
+    21300474: FT_Juvia_237
+    21300476: FT_Juvia_238
+    21300478: FT_Juvia_239
+    21300480: FT_Juvia_240
+    21300482: FT_Juvia_241
+    21300484: FT_Juvia_242
+    21300486: FT_Juvia_243
+    21300488: FT_Juvia_244
+    21300490: FT_Juvia_245
+    21300492: FT_Juvia_246
+    21300494: FT_Juvia_247
+    21300496: FT_Juvia_248
+    21300498: FT_Juvia_249
+    21300500: FT_Juvia_250
+    21300502: FT_Juvia_251
+    21300504: FT_Juvia_252
+    21300506: FT_Juvia_253
+    21300508: FT_Juvia_254
+    21300510: FT_Juvia_255
+    21300512: FT_Juvia_256
+    21300514: FT_Juvia_257
+    21300516: FT_Juvia_258
+    21300518: FT_Juvia_259
+    21300520: FT_Juvia_260
+    21300522: FT_Juvia_261
+    21300524: FT_Juvia_262
+    21300526: FT_Juvia_263
+    21300528: FT_Juvia_264
+    21300530: FT_Juvia_265
+    21300532: FT_Juvia_266
+    21300534: FT_Juvia_267
+    21300536: FT_Juvia_268
+    21300538: FT_Juvia_269
+    21300540: FT_Juvia_270
+    21300542: FT_Juvia_271
+    21300544: FT_Juvia_272
+    21300546: FT_Juvia_273
+    21300548: FT_Juvia_274
+    21300550: FT_Juvia_275
+    21300552: FT_Juvia_276
+    21300554: FT_Juvia_277
+    21300556: FT_Juvia_278
+    21300558: FT_Juvia_279
+    21300560: FT_Juvia_280
+    21300562: FT_Juvia_281
+    21300564: FT_Juvia_282
+    21300566: FT_Juvia_283
+    21300568: FT_Juvia_284
+    21300570: FT_Juvia_285
+    21300572: FT_Juvia_286
+    21300574: FT_Juvia_287
+    21300576: FT_Juvia_288
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FT_Juvia_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2920
+        width: 34
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2924
+        width: 26
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2761
+        width: 123
+        height: 184
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2761
+        width: 112
+        height: 129
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2761
+        width: 122
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2761
+        width: 104
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2761
+        width: 111
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2760
+        width: 129
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2607
+        width: 38
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2607
+        width: 55
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2607
+        width: 66
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2607
+        width: 67
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2607
+        width: 68
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2607
+        width: 79
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2607
+        width: 38
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2607
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2607
+        width: 34
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2489
+        width: 141
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2506
+        width: 33
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2506
+        width: 34
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2506
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2506
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2506
+        width: 30
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2506
+        width: 33
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2506
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2506
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2436
+        width: 39
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2436
+        width: 37
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2404
+        width: 33
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2404
+        width: 30
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2406
+        width: 38
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2404
+        width: 36
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2404
+        width: 30
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2304
+        width: 51
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2304
+        width: 48
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2301
+        width: 42
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2302
+        width: 47
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2302
+        width: 35
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_60
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2302
+        width: 34
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_61
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2294
+        width: 50
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_63
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2294
+        width: 49
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_69
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2294
+        width: 59
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_74
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2294
+        width: 58
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2294
+        width: 58
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2190
+        width: 44
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2187
+        width: 35
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2192
+        width: 38
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2187
+        width: 42
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2187
+        width: 43
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2134
+        width: 44
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2137
+        width: 42
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_91
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2138
+        width: 39
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_92
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2134
+        width: 42
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_93
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2134
+        width: 43
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2081
+        width: 44
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_95
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2087
+        width: 45
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2087
+        width: 39
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2077
+        width: 41
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_98
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2084
+        width: 44
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1941
+        width: 69
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_103
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2012
+        width: 29
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1941
+        width: 72
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1939
+        width: 67
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1939
+        width: 68
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_112
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1848
+        width: 50
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1848
+        width: 45
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_114
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1848
+        width: 48
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1848
+        width: 59
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_116
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1848
+        width: 70
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_117
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1848
+        width: 77
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_118
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1848
+        width: 80
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_119
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1846
+        width: 83
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_120
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1846
+        width: 60
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_121
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1848
+        width: 44
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_124
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1749
+        width: 44
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1749
+        width: 51
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1749
+        width: 71
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_127
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1749
+        width: 74
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_128
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1749
+        width: 81
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_129
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1749
+        width: 37
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1643
+        width: 83
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_134
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1643
+        width: 94
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_135
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1643
+        width: 69
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1706
+        width: 11
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1643
+        width: 68
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_138
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1643
+        width: 53
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1643
+        width: 42
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1685
+        width: 5
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_141
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1670
+        width: 9
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_146
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1524
+        width: 82
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1524
+        width: 68
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_148
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1524
+        width: 56
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1524
+        width: 85
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_150
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1524
+        width: 78
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_151
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1524
+        width: 74
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1524
+        width: 42
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1420
+        width: 32
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1411
+        width: 101
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_158
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1420
+        width: 94
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_159
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1420
+        width: 74
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_160
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1420
+        width: 62
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_165
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1411
+        width: 35
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_166
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1378
+        width: 41
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_167
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1380
+        width: 47
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_168
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1381
+        width: 72
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_169
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1377
+        width: 77
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_170
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1358
+        width: 90
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_171
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1293
+        width: 90
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1390
+        width: 11
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_173
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1386
+        width: 9
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_174
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1293
+        width: 41
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_175
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1293
+        width: 84
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_176
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1293
+        width: 84
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_177
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1362
+        width: 8
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1293
+        width: 56
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_179
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1293
+        width: 66
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_180
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1281
+        width: 36
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1283
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_182
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1199
+        width: 38
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_183
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1199
+        width: 39
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_184
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1199
+        width: 50
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_185
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1199
+        width: 96
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_186
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1199
+        width: 96
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_187
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1199
+        width: 108
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_188
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1199
+        width: 121
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_189
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1199
+        width: 135
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_190
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1199
+        width: 82
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_192
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1115
+        width: 65
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_193
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1115
+        width: 45
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_194
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1126
+        width: 91
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_197
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1000
+        width: 41
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_198
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1000
+        width: 39
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_199
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1000
+        width: 54
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_200
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1000
+        width: 53
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_201
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1000
+        width: 54
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1000
+        width: 53
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_203
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1002
+        width: 89
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_224
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1000
+        width: 124
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_233
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 876
+        width: 158
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_234
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 879
+        width: 83
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_235
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 882
+        width: 94
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_236
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 878
+        width: 162
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_238
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 836
+        width: 118
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_244
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 767
+        width: 157
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_245
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 770
+        width: 157
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_248
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 626
+        width: 43
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_249
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 626
+        width: 91
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_250
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 626
+        width: 42
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_251
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 626
+        width: 47
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_252
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 626
+        width: 44
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_253
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 626
+        width: 34
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_254
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 626
+        width: 39
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_255
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 626
+        width: 131
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_256
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 625
+        width: 119
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_257
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 626
+        width: 45
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_258
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 475
+        width: 47
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_259
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 475
+        width: 151
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_260
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 475
+        width: 132
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_261
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 475
+        width: 59
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_262
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 475
+        width: 33
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_263
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 475
+        width: 35
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_266
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 44
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_267
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 357
+        width: 51
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_268
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 359
+        width: 70
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_269
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 301
+        width: 129
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_270
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 314
+        width: 120
+        height: 120
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_271
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 321
+        width: 97
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_272
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 345
+        width: 57
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_273
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 339
+        width: 64
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_274
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 347
+        width: 51
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_276
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 142
+        width: 38
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_277
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 142
+        width: 56
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_278
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 59
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_279
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 141
+        width: 30
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_280
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 141
+        width: 36
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_281
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 141
+        width: 39
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_282
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 36
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_283
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 142
+        width: 47
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_284
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 142
+        width: 51
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_285
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 25
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_286
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 42
+        width: 37
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_287
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 43
+        width: 32
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2012
+        width: 29
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_47
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2014
+        width: 29
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2018
+        width: 27
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2017
+        width: 26
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2021
+        width: 23
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_51
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1308
+        width: 31
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 37
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_53
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 998
+        width: 126
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_54
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 996
+        width: 126
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2762
+        width: 77
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Juvia_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2760
+        width: 117
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6157 @@
+fileFormatVersion: 2
+guid: c560e2d4f50b1934c9c998673a48c1f9
+timeCreated: 1508427583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mystogan_2
+    21300002: Mystogan_5
+    21300004: Mystogan_6
+    21300006: Mystogan_7
+    21300008: Mystogan_8
+    21300010: Mystogan_9
+    21300012: Mystogan_10
+    21300014: Mystogan_12
+    21300016: Mystogan_13
+    21300018: Mystogan_14
+    21300020: Mystogan_15
+    21300022: Mystogan_16
+    21300024: Mystogan_17
+    21300026: Mystogan_18
+    21300028: Mystogan_19
+    21300030: Mystogan_20
+    21300032: Mystogan_21
+    21300034: Mystogan_22
+    21300036: Mystogan_23
+    21300038: Mystogan_24
+    21300040: Mystogan_29
+    21300042: Mystogan_30
+    21300044: Mystogan_31
+    21300046: Mystogan_32
+    21300048: Mystogan_33
+    21300050: Mystogan_34
+    21300052: Mystogan_35
+    21300054: Mystogan_36
+    21300056: Mystogan_37
+    21300058: Mystogan_38
+    21300060: Mystogan_39
+    21300062: Mystogan_47
+    21300064: Mystogan_48
+    21300066: Mystogan_49
+    21300068: Mystogan_50
+    21300070: Mystogan_51
+    21300072: Mystogan_52
+    21300074: Mystogan_53
+    21300076: Mystogan_54
+    21300078: Mystogan_58
+    21300080: Mystogan_60
+    21300082: Mystogan_75
+    21300084: Mystogan_76
+    21300086: Mystogan_77
+    21300088: Mystogan_78
+    21300090: Mystogan_79
+    21300092: Mystogan_80
+    21300094: Mystogan_85
+    21300096: Mystogan_86
+    21300098: Mystogan_87
+    21300100: Mystogan_88
+    21300102: Mystogan_89
+    21300104: Mystogan_90
+    21300106: Mystogan_92
+    21300108: Mystogan_93
+    21300110: Mystogan_94
+    21300112: Mystogan_95
+    21300114: Mystogan_96
+    21300116: Mystogan_97
+    21300118: Mystogan_98
+    21300120: Mystogan_99
+    21300122: Mystogan_100
+    21300124: Mystogan_101
+    21300126: Mystogan_102
+    21300128: Mystogan_104
+    21300130: Mystogan_105
+    21300132: Mystogan_106
+    21300134: Mystogan_107
+    21300136: Mystogan_108
+    21300138: Mystogan_109
+    21300140: Mystogan_110
+    21300142: Mystogan_111
+    21300144: Mystogan_112
+    21300146: Mystogan_113
+    21300148: Mystogan_114
+    21300150: Mystogan_115
+    21300152: Mystogan_116
+    21300154: Mystogan_117
+    21300156: Mystogan_118
+    21300158: Mystogan_119
+    21300160: Mystogan_120
+    21300162: Mystogan_121
+    21300164: Mystogan_122
+    21300166: Mystogan_123
+    21300168: Mystogan_124
+    21300170: Mystogan_125
+    21300172: Mystogan_129
+    21300174: Mystogan_130
+    21300176: Mystogan_131
+    21300178: Mystogan_132
+    21300180: Mystogan_133
+    21300182: Mystogan_136
+    21300184: Mystogan_137
+    21300186: Mystogan_138
+    21300188: Mystogan_139
+    21300190: Mystogan_140
+    21300192: Mystogan_141
+    21300194: Mystogan_144
+    21300196: Mystogan_147
+    21300198: Mystogan_148
+    21300200: Mystogan_149
+    21300202: Mystogan_150
+    21300204: Mystogan_151
+    21300206: Mystogan_152
+    21300208: Mystogan_153
+    21300210: Mystogan_154
+    21300212: Mystogan_155
+    21300214: Mystogan_156
+    21300216: Mystogan_157
+    21300218: Mystogan_158
+    21300220: Mystogan_159
+    21300222: Mystogan_160
+    21300224: Mystogan_161
+    21300226: Mystogan_162
+    21300228: Mystogan_163
+    21300230: Mystogan_164
+    21300232: Mystogan_165
+    21300234: Mystogan_166
+    21300236: Mystogan_167
+    21300238: Mystogan_168
+    21300240: Mystogan_169
+    21300242: Mystogan_170
+    21300244: Mystogan_171
+    21300246: Mystogan_172
+    21300248: Mystogan_173
+    21300250: Mystogan_174
+    21300252: Mystogan_175
+    21300254: Mystogan_176
+    21300256: Mystogan_177
+    21300258: Mystogan_178
+    21300260: Mystogan_179
+    21300262: Mystogan_180
+    21300264: Mystogan_183
+    21300266: Mystogan_186
+    21300268: Mystogan_187
+    21300270: Mystogan_188
+    21300272: Mystogan_189
+    21300274: Mystogan_190
+    21300276: Mystogan_191
+    21300278: Mystogan_192
+    21300280: Mystogan_193
+    21300282: Mystogan_194
+    21300284: Mystogan_195
+    21300286: Mystogan_196
+    21300288: Mystogan_197
+    21300290: Mystogan_198
+    21300292: Mystogan_201
+    21300294: Mystogan_206
+    21300296: Mystogan_207
+    21300298: Mystogan_208
+    21300300: Mystogan_209
+    21300302: Mystogan_210
+    21300304: Mystogan_211
+    21300306: Mystogan_212
+    21300308: Mystogan_213
+    21300310: Mystogan_216
+    21300312: Mystogan_217
+    21300314: Mystogan_218
+    21300316: Mystogan_225
+    21300318: Mystogan_226
+    21300320: Mystogan_235
+    21300322: Mystogan_241
+    21300324: Mystogan_242
+    21300326: Mystogan_244
+    21300328: Mystogan_253
+    21300330: Mystogan_254
+    21300332: Mystogan_255
+    21300334: Mystogan_262
+    21300336: Mystogan_263
+    21300338: Mystogan_264
+    21300340: Mystogan_265
+    21300342: Mystogan_266
+    21300344: Mystogan_267
+    21300346: Mystogan_268
+    21300348: Mystogan_269
+    21300350: Mystogan_270
+    21300352: Mystogan_271
+    21300354: Mystogan_272
+    21300356: Mystogan_273
+    21300358: Mystogan_274
+    21300360: Mystogan_275
+    21300362: Mystogan_276
+    21300364: Mystogan_277
+    21300366: Mystogan_278
+    21300368: Mystogan_279
+    21300370: Mystogan_280
+    21300372: Mystogan_281
+    21300374: Mystogan_282
+    21300376: Mystogan_283
+    21300378: Mystogan_284
+    21300380: Mystogan_285
+    21300382: Mystogan_286
+    21300384: Mystogan_287
+    21300386: Mystogan_288
+    21300388: Mystogan_289
+    21300390: Mystogan_297
+    21300392: Mystogan_298
+    21300394: Mystogan_299
+    21300396: Mystogan_300
+    21300398: Mystogan_301
+    21300400: Mystogan_302
+    21300402: Mystogan_303
+    21300404: Mystogan_304
+    21300406: Mystogan_305
+    21300408: Mystogan_306
+    21300410: Mystogan_307
+    21300412: Mystogan_308
+    21300414: Mystogan_309
+    21300416: Mystogan_310
+    21300418: Mystogan_311
+    21300420: Mystogan_312
+    21300422: Mystogan_313
+    21300424: Mystogan_314
+    21300426: Mystogan_315
+    21300428: Mystogan_316
+    21300430: Mystogan_318
+    21300432: Mystogan_319
+    21300434: Mystogan_320
+    21300436: Mystogan_321
+    21300438: Mystogan_322
+    21300440: Mystogan_323
+    21300442: Mystogan_324
+    21300444: Mystogan_325
+    21300446: Mystogan_326
+    21300448: Mystogan_327
+    21300450: Mystogan_328
+    21300452: Mystogan_329
+    21300454: Mystogan_330
+    21300456: Mystogan_331
+    21300458: Mystogan_332
+    21300460: Mystogan_333
+    21300462: Mystogan_334
+    21300464: Mystogan_335
+    21300466: Mystogan_336
+    21300468: Mystogan_337
+    21300470: Mystogan_338
+    21300472: Mystogan_339
+    21300474: Mystogan_340
+    21300476: Mystogan_341
+    21300478: Mystogan_342
+    21300480: Mystogan_343
+    21300482: Mystogan_344
+    21300484: Mystogan_345
+    21300486: Mystogan_346
+    21300488: Mystogan_347
+    21300490: Mystogan_348
+    21300492: Mystogan_349
+    21300494: Mystogan_350
+    21300496: Mystogan_351
+    21300498: Mystogan_352
+    21300500: Mystogan_353
+    21300502: Mystogan_354
+    21300504: Mystogan_355
+    21300506: Mystogan_356
+    21300508: Mystogan_357
+    21300510: Mystogan_358
+    21300512: Mystogan_359
+    21300514: Mystogan_360
+    21300516: Mystogan_361
+    21300518: Mystogan_362
+    21300520: Mystogan_363
+    21300522: Mystogan_364
+    21300524: Mystogan_365
+    21300526: Mystogan_366
+    21300528: Mystogan_367
+    21300530: Mystogan_368
+    21300532: Mystogan_369
+    21300534: Mystogan_370
+    21300536: Mystogan_371
+    21300538: Mystogan_372
+    21300540: Mystogan_373
+    21300542: Mystogan_374
+    21300544: Mystogan_375
+    21300546: Mystogan_376
+    21300548: Mystogan_377
+    21300550: Mystogan_378
+    21300552: Mystogan_379
+    21300554: Mystogan_380
+    21300556: Mystogan_381
+    21300558: Mystogan_382
+    21300560: Mystogan_383
+    21300562: Mystogan_384
+    21300564: Mystogan_385
+    21300566: Mystogan_386
+    21300568: Mystogan_387
+    21300570: Mystogan_388
+    21300572: Mystogan_389
+    21300574: Mystogan_390
+    21300576: Mystogan_391
+    21300578: Mystogan_392
+    21300580: Mystogan_393
+    21300582: Mystogan_394
+    21300584: Mystogan_395
+    21300586: Mystogan_396
+    21300588: Mystogan_397
+    21300590: Mystogan_398
+    21300592: Mystogan_399
+    21300594: Mystogan_400
+    21300596: Mystogan_401
+    21300598: Mystogan_402
+    21300600: Mystogan_403
+    21300602: Mystogan_404
+    21300604: Mystogan_405
+    21300606: Mystogan_406
+    21300608: Mystogan_407
+    21300610: Mystogan_408
+    21300612: Mystogan_409
+    21300614: Mystogan_410
+    21300616: Mystogan_411
+    21300618: Mystogan_412
+    21300620: Mystogan_413
+    21300622: Mystogan_414
+    21300624: Mystogan_415
+    21300626: Mystogan_416
+    21300628: Mystogan_417
+    21300630: Mystogan_418
+    21300632: Mystogan_419
+    21300634: Mystogan_420
+    21300636: Mystogan_421
+    21300638: Mystogan_422
+    21300640: Mystogan_423
+    21300642: Mystogan_424
+    21300644: Mystogan_425
+    21300646: Mystogan_426
+    21300648: Mystogan_427
+    21300650: Mystogan_428
+    21300652: Mystogan_429
+    21300654: Mystogan_430
+    21300656: Mystogan_431
+    21300658: Mystogan_432
+    21300660: Mystogan_433
+    21300662: Mystogan_434
+    21300664: Mystogan_435
+    21300666: Mystogan_436
+    21300668: Mystogan_437
+    21300670: Mystogan_438
+    21300672: Mystogan_439
+    21300674: Mystogan_440
+    21300676: Mystogan_446
+    21300678: Mystogan_447
+    21300680: Mystogan_448
+    21300682: Mystogan_449
+    21300684: Mystogan_450
+    21300686: Mystogan_451
+    21300688: Mystogan_452
+    21300690: Mystogan_453
+    21300692: Mystogan_454
+    21300694: Mystogan_455
+    21300696: Mystogan_456
+    21300698: Mystogan_457
+    21300700: Mystogan_458
+    21300702: Mystogan_459
+    21300704: Mystogan_460
+    21300706: Mystogan_461
+    21300708: Mystogan_462
+    21300710: Mystogan_463
+    21300712: Mystogan_470
+    21300714: Mystogan_487
+    21300716: Mystogan_491
+    21300718: Mystogan_494
+    21300720: Mystogan_495
+    21300722: Mystogan_496
+    21300724: Mystogan_497
+    21300726: Mystogan_498
+    21300728: Mystogan_499
+    21300730: Mystogan_500
+    21300732: Mystogan_502
+    21300734: Mystogan_503
+    21300736: Mystogan_504
+    21300738: Mystogan_505
+    21300740: Mystogan_506
+    21300742: Mystogan_507
+    21300744: Mystogan_508
+    21300746: Mystogan_509
+    21300748: Mystogan_510
+    21300750: Mystogan_511
+    21300752: Mystogan_512
+    21300754: Mystogan_513
+    21300756: Mystogan_514
+    21300758: Mystogan_517
+    21300760: Mystogan_518
+    21300762: Mystogan_519
+    21300764: Mystogan_520
+    21300766: Mystogan_521
+    21300768: Mystogan_522
+    21300770: Mystogan_523
+    21300772: Mystogan_524
+    21300774: Mystogan_525
+    21300776: Mystogan_256
+    21300778: Mystogan_257
+    21300780: Mystogan_259
+    21300782: Mystogan_260
+    21300784: Mystogan_261
+    21300786: Mystogan_290
+    21300788: Mystogan_291
+    21300790: Mystogan_293
+    21300792: Mystogan_295
+    21300794: Mystogan_296
+    21300796: Mystogan_317
+    21300798: Mystogan_441
+    21300800: Mystogan_442
+    21300802: Mystogan_0
+    21300804: Mystogan_1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mystogan_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7585
+        width: 27
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7378
+        width: 128
+        height: 176
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7379
+        width: 120
+        height: 126
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7379
+        width: 123
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 7379
+        width: 117
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 7434
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 7390
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7215
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7202
+        width: 32
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7185
+        width: 38
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7168
+        width: 40
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7150
+        width: 54
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 7133
+        width: 59
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 7116
+        width: 55
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7100
+        width: 55
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 7098
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 7098
+        width: 69
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_22
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7099
+        width: 65
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 7097
+        width: 81
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_24
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 7098
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6889
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6889
+        width: 102
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6888
+        width: 103
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6886
+        width: 102
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6882
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_34
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 6879
+        width: 77
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 6879
+        width: 77
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_36
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 6879
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6879
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_38
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 6879
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_39
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 6879
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6689
+        width: 108
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6690
+        width: 108
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6692
+        width: 112
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6693
+        width: 112
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_51
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6694
+        width: 112
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_52
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 6695
+        width: 108
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_53
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6694
+        width: 109
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_54
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 6692
+        width: 88
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 6462
+        width: 81
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 6457
+        width: 162
+        height: 141
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6245
+        width: 81
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6243
+        width: 93
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 6239
+        width: 86
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_78
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 6286
+        width: 112
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_79
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 6239
+        width: 112
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_80
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 6211
+        width: 81
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5992
+        width: 86
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6010
+        width: 92
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_87
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5992
+        width: 98
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_88
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 5992
+        width: 97
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_89
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 5992
+        width: 98
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_90
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5992
+        width: 99
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5794
+        width: 98
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_93
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5793
+        width: 97
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5791
+        width: 75
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_95
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5790
+        width: 69
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_96
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 5792
+        width: 101
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_97
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 5790
+        width: 102
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 5789
+        width: 105
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_99
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 5773
+        width: 116
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_100
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 5775
+        width: 109
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_101
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 5779
+        width: 80
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_102
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5779
+        width: 63
+        height: 105
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5598
+        width: 82
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_105
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5599
+        width: 150
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5598
+        width: 107
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5460
+        width: 82
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5462
+        width: 96
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5460
+        width: 92
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5464
+        width: 110
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_111
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 5460
+        width: 146
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_112
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 5456
+        width: 143
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_113
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 5454
+        width: 107
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_114
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5308
+        width: 102
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5300
+        width: 108
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_116
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5308
+        width: 106
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_117
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5302
+        width: 138
+        height: 120
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5114
+        width: 141
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5115
+        width: 119
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5113
+        width: 103
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_121
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 5111
+        width: 81
+        height: 149
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_122
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5109
+        width: 79
+        height: 149
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_123
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 5107
+        width: 150
+        height: 156
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_124
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 5108
+        width: 122
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_125
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 5104
+        width: 82
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4859
+        width: 51
+        height: 137
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_130
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4868
+        width: 108
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4858
+        width: 142
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_132
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4852
+        width: 105
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_133
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 4862
+        width: 75
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_136
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4686
+        width: 104
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_137
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4686
+        width: 128
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_138
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4686
+        width: 113
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4688
+        width: 106
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_140
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 4686
+        width: 116
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_141
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 4685
+        width: 112
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_144
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4634
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4460
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_148
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4460
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_149
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4459
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_150
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4456
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_151
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4454
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_152
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4454
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_153
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 4454
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_154
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 4455
+        width: 90
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_155
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 4454
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_156
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4470
+        width: 11
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_157
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 4452
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_158
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4462
+        width: 9
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_159
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 4462
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_160
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 4465
+        width: 12
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_161
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 4461
+        width: 13
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_162
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4340
+        width: 13
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_163
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4324
+        width: 26
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_164
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4317
+        width: 32
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_165
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4317
+        width: 32
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_166
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4316
+        width: 70
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_167
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4322
+        width: 119
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_168
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4343
+        width: 36
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_169
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4329
+        width: 120
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_170
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4226
+        width: 119
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_171
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4233
+        width: 119
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_172
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4248
+        width: 36
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_173
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4241
+        width: 32
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_174
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4169
+        width: 36
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_175
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4145
+        width: 117
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_176
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4148
+        width: 36
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_177
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 4171
+        width: 26
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_178
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 4133
+        width: 13
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_179
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3977
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_180
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3978
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_183
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3941
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3773
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_187
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3772
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_188
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3770
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_189
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3596
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_190
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3594
+        width: 118
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_191
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3592
+        width: 130
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_192
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3702
+        width: 18
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_193
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3592
+        width: 137
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_194
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3702
+        width: 19
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_195
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3594
+        width: 146
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_196
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3705
+        width: 20
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_197
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3592
+        width: 151
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_198
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 3704
+        width: 21
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_201
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3592
+        width: 124
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_206
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3409
+        width: 160
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_207
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3524
+        width: 23
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_208
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 3411
+        width: 166
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_209
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3526
+        width: 23
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_210
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3410
+        width: 176
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_211
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3527
+        width: 24
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_212
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3408
+        width: 182
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_213
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3525
+        width: 25
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_216
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3408
+        width: 154
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_217
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3521
+        width: 22
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_218
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 3406
+        width: 191
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_225
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3220
+        width: 192
+        height: 129
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_226
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3339
+        width: 26
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_235
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3219
+        width: 198
+        height: 130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_241
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3216
+        width: 186
+        height: 133
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_242
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3214
+        width: 186
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_244
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3216
+        width: 191
+        height: 134
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_253
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3263
+        width: 5
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_254
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3039
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_255
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3037
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_262
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2822
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_263
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2822
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_264
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2820
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_265
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2817
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_266
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2815
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_267
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2815
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_268
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2815
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_269
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2816
+        width: 90
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_270
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2815
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_271
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2831
+        width: 11
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_272
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2813
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_273
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2823
+        width: 9
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_274
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2823
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_275
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2826
+        width: 12
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_276
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2822
+        width: 13
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_277
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2626
+        width: 48
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_278
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2558
+        width: 74
+        height: 189
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_279
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2561
+        width: 77
+        height: 189
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_280
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2561
+        width: 83
+        height: 190
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_281
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2564
+        width: 91
+        height: 190
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_282
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2564
+        width: 59
+        height: 190
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_283
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2622
+        width: 48
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_284
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2622
+        width: 70
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_285
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2622
+        width: 83
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_286
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2622
+        width: 91
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_287
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2622
+        width: 16
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_288
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2374
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_289
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2372
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_297
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2157
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_298
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2157
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_299
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2155
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_300
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2152
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_301
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2150
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_302
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2150
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_303
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2150
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_304
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2151
+        width: 90
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_305
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2152
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_306
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2168
+        width: 11
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_307
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2150
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_308
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2158
+        width: 9
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_309
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2158
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_310
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2161
+        width: 12
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_311
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2159
+        width: 13
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_312
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2001
+        width: 61
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_313
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1994
+        width: 71
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_314
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1989
+        width: 74
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_315
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1986
+        width: 84
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_316
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1981
+        width: 83
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_318
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1980
+        width: 87
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_319
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1979
+        width: 92
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_320
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1836
+        width: 83
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_321
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1841
+        width: 78
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_322
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1846
+        width: 71
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_323
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1847
+        width: 64
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_324
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1857
+        width: 45
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_325
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1865
+        width: 30
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_326
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1874
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_327
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1739
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_328
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1731
+        width: 37
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_329
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1707
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_330
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1683
+        width: 49
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_331
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1677
+        width: 53
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_332
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1676
+        width: 50
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_333
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1686
+        width: 59
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_334
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1705
+        width: 58
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_335
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1718
+        width: 49
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_336
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1717
+        width: 47
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_337
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1716
+        width: 50
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_338
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1716
+        width: 308
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_339
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1716
+        width: 51
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_340
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1716
+        width: 52
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_341
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1716
+        width: 51
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_342
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1716
+        width: 53
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_343
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1732
+        width: 33
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_344
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1739
+        width: 20
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_345
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1601
+        width: 22
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_346
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1596
+        width: 37
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_347
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1575
+        width: 44
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_348
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1555
+        width: 49
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_349
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1549
+        width: 53
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_350
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1553
+        width: 50
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_351
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1563
+        width: 59
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_352
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1581
+        width: 58
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_353
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1596
+        width: 49
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_354
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1596
+        width: 47
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_355
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1590
+        width: 50
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_356
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1590
+        width: 308
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_357
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1591
+        width: 51
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_358
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1592
+        width: 52
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_359
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1592
+        width: 51
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_360
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1592
+        width: 53
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_361
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1606
+        width: 33
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_362
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1610
+        width: 20
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_363
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1469
+        width: 15
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_364
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1464
+        width: 23
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_365
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1455
+        width: 57
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_366
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1456
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_367
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1456
+        width: 44
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_368
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1459
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_369
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1459
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_370
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1459
+        width: 39
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_371
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1460
+        width: 42
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_372
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1459
+        width: 42
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_373
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1458
+        width: 44
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_374
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1459
+        width: 45
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_375
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1460
+        width: 263
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_376
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1461
+        width: 45
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_377
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1462
+        width: 42
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_378
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1461
+        width: 44
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_379
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1459
+        width: 41
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_380
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1464
+        width: 33
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_381
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1469
+        width: 20
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_382
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1378
+        width: 15
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_383
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1374
+        width: 23
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_384
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1371
+        width: 57
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_385
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1372
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_386
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1372
+        width: 44
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_387
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1374
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_388
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1374
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_389
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1375
+        width: 39
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_390
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1376
+        width: 42
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_391
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1374
+        width: 42
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_392
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1374
+        width: 44
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_393
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1376
+        width: 45
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_394
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1376
+        width: 268
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_395
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1377
+        width: 45
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_396
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1379
+        width: 42
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_397
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1377
+        width: 44
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_398
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1376
+        width: 41
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_399
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1382
+        width: 33
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_400
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1388
+        width: 20
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_401
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 25
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_402
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1279
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_403
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_404
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1283
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_405
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1284
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_406
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1286
+        width: 44
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_407
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1286
+        width: 47
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_408
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1293
+        width: 470
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_409
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1288
+        width: 49
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_410
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1289
+        width: 51
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_411
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1292
+        width: 51
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_412
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1294
+        width: 46
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_413
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1293
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_414
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1292
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_415
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1294
+        width: 44
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_416
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1295
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_417
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1301
+        width: 25
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_418
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1308
+        width: 18
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_419
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1287
+        width: 18
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_420
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1196
+        width: 18
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_421
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1191
+        width: 25
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_422
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1188
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_423
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1188
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_424
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1187
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_425
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1189
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_426
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1189
+        width: 44
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_427
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1190
+        width: 47
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_428
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1194
+        width: 470
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_429
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1192
+        width: 49
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_430
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1193
+        width: 51
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_431
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1194
+        width: 51
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_432
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1194
+        width: 46
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_433
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1191
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_434
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1190
+        width: 45
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_435
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1193
+        width: 44
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_436
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1194
+        width: 56
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_437
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1200
+        width: 25
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_438
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1208
+        width: 18
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_439
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1017
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_440
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1015
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_446
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 806
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_447
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 806
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_448
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 804
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_449
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 801
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_450
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 799
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_451
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 799
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_452
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 799
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_453
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 800
+        width: 90
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_454
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 799
+        width: 87
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_455
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 815
+        width: 11
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_456
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 797
+        width: 85
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_457
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 807
+        width: 9
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_458
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 807
+        width: 10
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_459
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 810
+        width: 12
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_460
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 806
+        width: 13
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_461
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 602
+        width: 126
+        height: 156
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_462
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 603
+        width: 107
+        height: 158
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_463
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 604
+        width: 97
+        height: 149
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_470
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 603
+        width: 119
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_487
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 600
+        width: 120
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_491
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 610
+        width: 65
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_494
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 584
+        width: 95
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_495
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 584
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_496
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 584
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_497
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 584
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_498
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 584
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_499
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 426
+        width: 85
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_500
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 424
+        width: 84
+        height: 131
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_502
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 239
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_503
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 239
+        width: 81
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_504
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 238
+        width: 65
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_505
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 239
+        width: 69
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_506
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 239
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_507
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 239
+        width: 55
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_508
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 253
+        width: 55
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_509
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 269
+        width: 59
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_510
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 283
+        width: 54
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_511
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 299
+        width: 40
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_512
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 315
+        width: 38
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_513
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 330
+        width: 32
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_514
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 345
+        width: 16
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_517
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 99
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_518
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 81
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_519
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 59
+        width: 65
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_520
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 58
+        width: 67
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_521
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 58
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_522
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 58
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_523
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 58
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_524
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 59
+        width: 55
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_525
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 142
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_256
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1978
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_257
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 600
+        width: 105
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_259
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 596
+        width: 105
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_260
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_261
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 132
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7694092, y: 0.50000405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_290
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 126
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_291
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 129
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_293
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 137
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_295
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 126
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_296
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 91
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_317
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 127
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_441
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 130
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_442
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 129
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 6458
+        width: 159
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mystogan_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6457
+        width: 165
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

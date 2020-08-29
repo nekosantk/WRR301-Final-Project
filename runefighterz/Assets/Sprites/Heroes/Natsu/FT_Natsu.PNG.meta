@@ -1,0 +1,3333 @@
+fileFormatVersion: 2
+guid: 7d65e60906b18764b89c183d959c2a9d
+timeCreated: 1509196808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Natsu_0
+    21300002: FT_Natsu_0
+    21300004: FT_Natsu_1
+    21300006: FT_Natsu_287.1
+    21300008: 6
+    21300010: FT_Natsu_4
+    21300012: FT_Natsu_5
+    21300014: FT_Natsu_6
+    21300016: FT_Natsu_7
+    21300018: FT_Natsu_8
+    21300020: 9
+    21300022: FT_Natsu_10
+    21300024: FT_Natsu_216-1
+    21300026: FT_Natsu_12
+    21300028: FT_Natsu_00
+    21300030: 2
+    21300032: 3
+    21300034: 4
+    21300036: 5
+    21300038: 7
+    21300040: 8
+    21300042: FT_Natsu_20
+    21300044: FT_Natsu_21
+    21300046: FT_Natsu_22
+    21300048: 21
+    21300050: 22
+    21300052: 23
+    21300054: 24
+    21300056: 25
+    21300058: 26
+    21300060: FT_Natsu_29
+    21300062: 28
+    21300064: 29
+    21300066: FT_Natsu_32
+    21300068: FT_Natsu_33
+    21300070: FT_Natsu_34
+    21300072: FT_Natsu_35
+    21300074: FT_Natsu_36
+    21300076: FT_Natsu_37
+    21300078: FT_Natsu_38
+    21300080: FT_Natsu_39
+    21300082: FT_Natsu_40
+    21300084: FT_Natsu_41
+    21300086: FT_Natsu_42
+    21300088: FT_Natsu_43
+    21300090: FT_Natsu_44
+    21300092: FT_Natsu_45
+    21300094: FT_Natsu_46
+    21300096: FT_Natsu_47
+    21300098: FT_Natsu_48
+    21300100: 27
+    21300102: FT_Natsu_50
+    21300104: FT_Natsu_51
+    21300106: FT_Natsu_52
+    21300108: FT_Natsu_53
+    21300110: FT_Natsu_54
+    21300112: FT_Natsu_55
+    21300114: FT_Natsu_56
+    21300116: FT_Natsu_57
+    21300118: FT_Natsu_58
+    21300120: FT_Natsu_59
+    21300122: FT_Natsu_60
+    21300124: FT_Natsu_61
+    21300126: FT_Natsu_62
+    21300128: FT_Natsu_63
+    21300130: 31
+    21300132: 32
+    21300134: 33
+    21300136: 34
+    21300138: 41
+    21300140: 42
+    21300142: 43
+    21300144: 44
+    21300146: 45
+    21300148: 46
+    21300150: FT_Natsu_74
+    21300152: FT_Natsu_75
+    21300154: FT_Natsu_76
+    21300156: FT_Natsu_77
+    21300158: FT_Natsu_78
+    21300160: FT_Natsu_79
+    21300162: FT_Natsu_80
+    21300164: FT_Natsu_81
+    21300166: FT_Natsu_82
+    21300168: FT_Natsu_83
+    21300170: FT_Natsu_84
+    21300172: FT_Natsu_85
+    21300174: FT_Natsu_86
+    21300176: FT_Natsu_87
+    21300178: FT_Natsu_88
+    21300180: FT_Natsu_89
+    21300182: FT_Natsu_90
+    21300184: FT_Natsu_91
+    21300186: FT_Natsu_92
+    21300188: FT_Natsu_93
+    21300190: FT_Natsu_94
+    21300192: FT_Natsu_95
+    21300194: FT_Natsu_96
+    21300196: FT_Natsu_97
+    21300198: FT_Natsu_98
+    21300200: FT_Natsu_99
+    21300202: FT_Natsu_100
+    21300204: FT_Natsu_101
+    21300206: FT_Natsu_102
+    21300208: FT_Natsu_103
+    21300210: FT_Natsu_104
+    21300212: FT_Natsu_105
+    21300214: FT_Natsu_106
+    21300216: FT_Natsu_107
+    21300218: FT_Natsu_108
+    21300220: FT_Natsu_109
+    21300222: FT_Natsu_110
+    21300224: FT_Natsu_111
+    21300226: FT_Natsu_112
+    21300228: FT_Natsu_113
+    21300230: FT_Natsu_114
+    21300232: FT_Natsu_115
+    21300234: FT_Natsu_116
+    21300236: FT_Natsu_117
+    21300238: FT_Natsu_118
+    21300240: FT_Natsu_119
+    21300242: FT_Natsu_120
+    21300244: FT_Natsu_121
+    21300246: FT_Natsu_122
+    21300248: FT_Natsu_123
+    21300250: FT_Natsu_124
+    21300252: FT_Natsu_125
+    21300254: FT_Natsu_126
+    21300256: FT_Natsu_127
+    21300258: FT_Natsu_128
+    21300260: FT_Natsu_129
+    21300262: FT_Natsu_130
+    21300264: FT_Natsu_131
+    21300266: FT_Natsu_132
+    21300268: FT_Natsu_133
+    21300270: FT_Natsu_134
+    21300272: FT_Natsu_135
+    21300274: FT_Natsu_136
+    21300276: FT_Natsu_137
+    21300278: FT_Natsu_138
+    21300280: FT_Natsu_139
+    21300282: FT_Natsu_140
+    21300284: FT_Natsu_141
+    21300286: FT_Natsu_142
+    21300288: FT_Natsu_143
+    21300290: FT_Natsu_144
+    21300292: FT_Natsu_145
+    21300294: FT_Natsu_146
+    21300296: FT_Natsu_147
+    21300298: FT_Natsu_148
+    21300300: FT_Natsu_149
+    21300302: 52
+    21300304: FT_Natsu_151
+    21300306: FT_Natsu_152
+    21300308: FT_Natsu_153
+    21300310: FT_Natsu_154
+    21300312: 51
+    21300314: 53
+    21300316: 54
+    21300318: 55
+    21300320: FT_Natsu_159
+    21300322: FT_Natsu_160
+    21300324: FT_Natsu_161
+    21300326: FT_Natsu_162
+    21300328: FT_Natsu_163
+    21300330: FT_Natsu_164
+    21300332: FT_Natsu_165
+    21300334: FT_Natsu_166
+    21300336: FT_Natsu_167
+    21300338: FT_Natsu_168
+    21300340: FT_Natsu_169
+    21300342: FT_Natsu_170
+    21300344: FT_Natsu_171
+    21300346: FT_Natsu_172
+    21300348: FT_Natsu_173
+    21300350: FT_Natsu_174
+    21300352: FT_Natsu_175
+    21300354: FT_Natsu_176
+    21300356: FT_Natsu_177
+    21300358: FT_Natsu_178
+    21300360: FT_Natsu_179
+    21300362: FT_Natsu_180
+    21300364: FT_Natsu_181
+    21300366: FT_Natsu_182
+    21300368: FT_Natsu_183
+    21300370: FT_Natsu_184
+    21300372: FT_Natsu_185
+    21300374: FT_Natsu_186
+    21300376: FT_Natsu_187
+    21300378: FT_Natsu_188
+    21300380: FT_Natsu_189
+    21300382: FT_Natsu_190
+    21300384: FT_Natsu_191
+    21300386: FT_Natsu_192
+    21300388: FT_Natsu_193
+    21300390: FT_Natsu_194
+    21300392: FT_Natsu_195
+    21300394: FT_Natsu_196
+    21300396: FT_Natsu_197
+    21300398: FT_Natsu_198
+    21300400: FT_Natsu_199
+    21300402: FT_Natsu_200
+    21300404: FT_Natsu_201
+    21300406: FT_Natsu_202
+    21300408: FT_Natsu_203
+    21300410: FT_Natsu_204
+    21300412: FT_Natsu_205
+    21300414: FT_Natsu_206
+    21300416: FT_Natsu_207
+    21300418: FT_Natsu_208
+    21300420: FT_Natsu_209
+    21300422: FT_Natsu_210
+    21300424: FT_Natsu_211
+    21300426: FT_Natsu_212
+    21300428: FT_Natsu_213
+    21300430: FT_Natsu_214
+    21300432: FT_Natsu_215
+    21300434: FT_Natsu_216
+    21300436: FT_Natsu_217
+    21300438: FT_Natsu_218
+    21300440: FT_Natsu_219
+    21300442: FT_Natsu_220
+    21300444: FT_Natsu_221
+    21300446: FT_Natsu_222
+    21300448: FT_Natsu_223
+    21300450: FT_Natsu_224
+    21300452: FT_Natsu_225
+    21300454: FT_Natsu_226
+    21300456: FT_Natsu_227
+    21300458: FT_Natsu_228
+    21300460: FT_Natsu_229
+    21300462: FT_Natsu_230
+    21300464: FT_Natsu_231
+    21300466: FT_Natsu_232
+    21300468: FT_Natsu_233
+    21300470: FT_Natsu_234
+    21300472: FT_Natsu_235
+    21300474: FT_Natsu_236
+    21300476: FT_Natsu_237
+    21300478: FT_Natsu_238
+    21300480: FT_Natsu_239
+    21300482: FT_Natsu_240
+    21300484: FT_Natsu_241
+    21300486: FT_Natsu_242
+    21300488: FT_Natsu_243
+    21300490: FT_Natsu_244
+    21300492: FT_Natsu_245
+    21300494: FT_Natsu_246
+    21300496: FT_Natsu_247
+    21300498: FT_Natsu_248
+    21300500: FT_Natsu_249
+    21300502: FT_Natsu_250
+    21300504: FT_Natsu_251-1
+    21300506: FT_Natsu_251-2
+    21300508: FT_Natsu_253
+    21300510: FT_Natsu_251-3
+    21300512: FT_Natsu_255
+    21300514: FT_Natsu_256
+    21300516: FT_Natsu_257
+    21300518: FT_Natsu_251-4
+    21300520: FT_Natsu_251-5
+    21300522: FT_Natsu_260
+    21300524: FT_Natsu_251-6
+    21300526: FT_Natsu_262
+    21300528: FT_Natsu_263
+    21300530: FT_Natsu_264
+    21300532: FT_Natsu_265
+    21300534: FT_Natsu_266
+    21300536: FT_Natsu_267
+    21300538: FT_Natsu_268
+    21300540: FT_Natsu_269
+    21300542: FT_Natsu_270
+    21300544: FT_Natsu_271
+    21300546: FT_Natsu_272
+    21300548: FT_Natsu_273
+    21300550: FT_Natsu_274
+    21300552: FT_Natsu_275
+    21300554: FT_Natsu_276
+    21300556: FT_Natsu_277
+    21300558: FT_Natsu_278
+    21300560: FT_Natsu_279
+    21300562: FT_Natsu_280
+    21300564: FT_Natsu_281
+    21300566: FT_Natsu_282
+    21300568: FT_Natsu_283
+    21300570: FT_Natsu_286-9
+    21300572: FT_Natsu_286-10
+    21300574: FT_Natsu_286-1
+    21300576: FT_Natsu_286-2
+    21300578: FT_Natsu_286-3
+    21300580: FT_Natsu_286-4
+    21300582: FT_Natsu_286-5
+    21300584: FT_Natsu_286-6
+    21300586: FT_Natsu_286-7
+    21300588: FT_Natsu_286-8
+    21300590: FT_Natsu_294
+    21300592: FT_Natsu_295
+    21300594: FT_Natsu_296
+    21300596: FT_Natsu_297
+    21300598: FT_Natsu_298
+    21300600: FT_Natsu_299
+    21300602: FT_Natsu_300
+    21300604: FT_Natsu_301
+    21300606: FT_Natsu_302
+    21300608: FT_Natsu_303
+    21300610: FT_Natsu_304
+    21300612: FT_Natsu_305
+    21300614: FT_Natsu_306
+    21300616: FT_Natsu_307
+    21300618: FT_Natsu_308
+    21300620: FT_Natsu_309
+    21300622: FT_Natsu_310
+    21300624: FT_Natsu_311
+    21300626: FT_Natsu_312
+    21300628: FT_Natsu_313
+    21300630: FT_Natsu_314
+    21300632: FT_Natsu_315
+    21300634: FT_Natsu_316
+    21300636: FT_Natsu_317
+    21300638: FT_Natsu_318
+    21300640: FT_Natsu_319
+    21300642: FT_Natsu_320
+    21300644: FT_Natsu_321
+    21300646: FT_Natsu_322
+    21300648: FT_Natsu_323
+    21300650: FT_Natsu_324
+    21300652: FT_Natsu_325
+    21300654: FT_Natsu_326
+    21300656: FT_Natsu_327
+    21300658: FT_Natsu_328
+    21300660: FT_Natsu_329
+    21300662: FT_Natsu_330
+    21300664: FT_Natsu_331
+    21300666: FT_Natsu_332
+    21300668: FT_Natsu_333
+    21300670: FT_Natsu_334
+    21300672: FT_Natsu_335
+    21300674: FT_Natsu_336
+    21300676: FT_Natsu_337
+    21300678: FT_Natsu_338
+    21300680: FT_Natsu_339
+    21300682: FT_Natsu_340
+    21300684: FT_Natsu_341
+    21300686: FT_Natsu_342
+    21300688: FT_Natsu_343
+    21300690: FT_Natsu_344
+    21300692: FT_Natsu_345
+    21300694: FT_Natsu_346
+    21300696: FT_Natsu_347
+    21300698: FT_Natsu_348
+    21300700: FT_Natsu_349
+    21300702: FT_Natsu_350
+    21300704: FT_Natsu_351
+    21300706: FT_Natsu_352
+    21300708: FT_Natsu_353-2
+    21300710: FT_Natsu_353-3
+    21300712: FT_Natsu_355
+    21300714: FT_Natsu_356
+    21300716: FT_Natsu_357
+    21300718: FT_Natsu_358
+    21300720: FT_Natsu_353-1
+    21300722: FT_Natsu_360
+    21300724: FT_Natsu_361
+    21300726: FT_Natsu_362
+    21300728: FT_Natsu_363
+    21300730: FT_Natsu_364
+    21300732: FT_Natsu_365
+    21300734: FT_Natsu_366
+    21300736: FT_Natsu_367
+    21300738: FT_Natsu_368
+    21300740: FT_Natsu_369
+    21300742: FT_Natsu_370
+    21300744: FT_Natsu_371
+    21300746: FT_Natsu_372
+    21300748: FT_Natsu_373
+    21300750: FT_Natsu_374
+    21300752: FT_Natsu_375
+    21300754: FT_Natsu_376
+    21300756: FT_Natsu_377
+    21300758: FT_Natsu_378
+    21300760: FT_Natsu_379
+    21300762: FT_Natsu_354-2
+    21300764: FT_Natsu_354-3
+    21300766: FT_Natsu_354-4
+    21300768: FT_Natsu_354-5
+    21300770: FT_Natsu_354-6
+    21300772: FT_Natsu_385
+    21300774: FT_Natsu_386
+    21300776: FT_Natsu_353-7
+    21300778: FT_Natsu_388
+    21300780: FT_Natsu_389
+    21300782: FT_Natsu_390
+    21300784: FT_Natsu_391
+    21300786: FT_Natsu_392
+    21300788: FT_Natsu_393
+    21300790: FT_Natsu_394
+    21300792: FT_Natsu_395
+    21300794: FT_Natsu_396
+    21300796: FT_Natsu_397
+    21300798: FT_Natsu_398
+    21300800: FT_Natsu_399
+    21300802: FT_Natsu_400
+    21300804: FT_Natsu_401
+    21300806: FT_Natsu_402
+    21300808: FT_Natsu_403
+    21300810: FT_Natsu_404
+    21300812: FT_Natsu_405
+    21300814: FT_Natsu_406
+    21300816: FT_Natsu_407
+    21300818: FT_Natsu_408
+    21300820: FT_Natsu_409
+    21300822: FT_Natsu_410
+    21300824: FT_Natsu_411
+    21300826: FT_Natsu_412
+    21300828: FT_Natsu_413
+    21300830: FT_Natsu_414
+    21300832: FT_Natsu_415
+    21300834: FT_Natsu_416
+    21300836: FT_Natsu_417
+    21300838: FT_Natsu_418
+    21300840: FT_Natsu_419
+    21300842: FT_Natsu_420
+    21300844: FT_Natsu_421
+    21300846: FT_Natsu_422
+    21300848: FT_Natsu_423
+    21300850: FT_Natsu_424
+    21300852: FT_Natsu_435-6
+    21300854: FT_Natsu_426
+    21300856: FT_Natsu_427
+    21300858: FT_Natsu_428
+    21300860: FT_Natsu_429
+    21300862: FT_Natsu_430
+    21300864: FT_Natsu_431
+    21300866: FT_Natsu_432
+    21300868: FT_Natsu_433
+    21300870: FT_Natsu_434
+    21300872: FT_Natsu_435-1
+    21300874: FT_Natsu_435-2
+    21300876: FT_Natsu_435-3
+    21300878: FT_Natsu_435-4
+    21300880: FT_Natsu_435-5
+    21300882: FT_Natsu_435-8
+    21300884: FT_Natsu_435-9
+    21300886: FT_Natsu_442
+    21300888: FT_Natsu_443
+    21300890: FT_Natsu_444
+    21300892: FT_Natsu_445
+    21300894: FT_Natsu_446
+    21300896: FT_Natsu_447
+    21300898: FT_Natsu_448
+    21300900: FT_Natsu_449
+    21300902: FT_Natsu_450
+    21300904: FT_Natsu_451
+    21300906: FT_Natsu_452
+    21300908: FT_Natsu_453
+    21300910: FT_Natsu_454
+    21300912: FT_Natsu_455
+    21300914: FT_Natsu_456
+    21300916: FT_Natsu_457
+    21300918: FT_Natsu_458
+    21300920: FT_Natsu_459
+    21300922: FT_Natsu_460
+    21300924: FT_Natsu_461
+    21300926: FT_Natsu_462
+    21300928: FT_Natsu_463
+    21300930: FT_Natsu_464
+    21300932: FT_Natsu_465
+    21300934: FT_Natsu_466
+    21300936: FT_Natsu_467
+    21300938: FT_Natsu_468
+    21300940: FT_Natsu_469
+    21300942: FT_Natsu_470
+    21300944: FT_Natsu_471
+    21300946: FT_Natsu_472
+    21300948: FT_Natsu_473
+    21300950: FT_Natsu_474
+    21300952: FT_Natsu_475
+    21300954: FT_Natsu_476
+    21300956: FT_Natsu_477
+    21300958: FT_Natsu_478
+    21300960: FT_Natsu_479
+    21300962: FT_Natsu_480
+    21300964: FT_Natsu_481
+    21300966: FT_Natsu_482
+    21300968: FT_Natsu_483
+    21300970: FT_Natsu_484
+    21300972: FT_Natsu_485
+    21300974: FT_Natsu_486
+    21300976: FT_Natsu_487
+    21300978: FT_Natsu_488
+    21300980: FT_Natsu_489
+    21300982: FT_Natsu_490
+    21300984: FT_Natsu_491
+    21300986: FT_Natsu_492
+    21300988: FT_Natsu_493
+    21300990: FT_Natsu_494
+    21300992: FT_Natsu_495
+    21300994: FT_Natsu_496
+    21300996: FT_Natsu_497
+    21300998: FT_Natsu_498
+    21301000: FT_Natsu_499
+    21301002: FT_Natsu_500
+    21301004: FT_Natsu_501
+    21301006: FT_Natsu_502
+    21301008: FT_Natsu_503
+    21301010: FT_Natsu_504
+    21301012: FT_Natsu_505
+    21301014: FT_Natsu_506
+    21301016: FT_Natsu_507
+    21301018: FT_Natsu_508
+    21301020: FT_Natsu_509
+    21301022: FT_Natsu_510
+    21301024: FT_Natsu_511
+    21301026: FT_Natsu_512
+    21301028: FT_Natsu_513
+    21301030: FT_Natsu_514
+    21301032: FT_Natsu_515
+    21301034: FT_Natsu_516
+    21301036: FT_Natsu_517
+    21301038: FT_Natsu_518
+    21301040: FT_Natsu_519
+    21301042: FT_Natsu_520
+    21301044: FT_Natsu_521
+    21301046: FT_Natsu_522
+    21301048: FT_Natsu_523
+    21301050: FT_Natsu_524
+    21301052: FT_Natsu_525
+    21301054: FT_Natsu_526
+    21301056: FT_Natsu_527
+    21301058: FT_Natsu_528
+    21301060: FT_Natsu_529
+    21301062: FT_Natsu_530
+    21301064: FT_Natsu_531
+    21301066: FT_Natsu_532
+    21301068: FT_Natsu_533
+    21301070: FT_Natsu_534
+    21301072: FT_Natsu_535
+    21301074: FT_Natsu_536
+    21301076: FT_Natsu_537
+    21301078: FT_Natsu_538
+    21301080: FT_Natsu_544-3
+    21301082: FT_Natsu_540
+    21301084: FT_Natsu_541
+    21301086: FT_Natsu_542
+    21301088: FT_Natsu_543
+    21301090: FT_Natsu_544-1
+    21301092: FT_Natsu_544-2
+    21301094: FT_Natsu_544-4
+    21301096: FT_Natsu_544-5
+    21301098: FT_Natsu_544-6
+    21301100: FT_Natsu_544-7
+    21301102: FT_Natsu_550
+    21301104: FT_Natsu_551
+    21301106: FT_Natsu_552
+    21301108: FT_Natsu_553
+    21301110: FT_Natsu_554
+    21301112: FT_Natsu_555
+    21301114: FT_Natsu_556
+    21301116: FT_Natsu_557
+    21301118: FT_Natsu_558
+    21301120: FT_Natsu_559
+    21301122: FT_Natsu_560
+    21301124: FT_Natsu_561
+    21301126: FT_Natsu_562
+    21301128: FT_Natsu_563
+    21301130: FT_Natsu_564
+    21301132: FT_Natsu_565
+    21301134: FT_Natsu_566
+    21301136: FT_Natsu_567
+    21301138: FT_Natsu_568
+    21301140: FT_Natsu_569
+    21301142: FT_Natsu_570
+    21301144: FT_Natsu_571
+    21301146: FT_Natsu_572
+    21301148: FT_Natsu_573
+    21301150: FT_Natsu_574
+    21301152: FT_Natsu_575
+    21301154: FT_Natsu_576
+    21301156: FT_Natsu_577
+    21301158: FT_Natsu_578
+    21301160: FT_Natsu_579
+    21301162: FT_Natsu_580
+    21301164: FT_Natsu_581
+    21301166: FT_Natsu_582
+    21301168: FT_Natsu_583
+    21301170: FT_Natsu_584
+    21301172: FT_Natsu_585
+    21301174: FT_Natsu_586
+    21301176: FT_Natsu_587
+    21301178: FT_Natsu_588
+    21301180: FT_Natsu_589
+    21301182: FT_Natsu_590
+    21301184: FT_Natsu_591
+    21301186: FT_Natsu_592
+    21301188: FT_Natsu_593
+    21301190: FT_Natsu_594
+    21301192: FT_Natsu_595
+    21301194: FT_Natsu_596
+    21301196: FT_Natsu_597
+    21301198: FT_Natsu_598
+    21301200: FT_Natsu_599
+    21301202: FT_Natsu_600
+    21301204: FT_Natsu_601
+    21301206: FT_Natsu_602
+    21301208: FT_Natsu_603
+    21301210: FT_Natsu_604
+    21301212: FT_Natsu_605
+    21301214: FT_Natsu_606
+    21301216: FT_Natsu_607
+    21301218: FT_Natsu_608
+    21301220: FT_Natsu_609
+    21301222: FT_Natsu_610
+    21301224: FT_Natsu_611
+    21301226: FT_Natsu_612
+    21301228: FT_Natsu_613
+    21301230: FT_Natsu_614
+    21301232: FT_Natsu_615
+    21301234: FT_Natsu_616
+    21301236: FT_Natsu_617
+    21301238: FT_Natsu_618
+    21301240: FT_Natsu_619
+    21301242: FT_Natsu_620
+    21301244: FT_Natsu_621
+    21301246: FT_Natsu_622
+    21301248: FT_Natsu_623
+    21301250: FT_Natsu_624
+    21301252: FT_Natsu_625
+    21301254: FT_Natsu_626
+    21301256: FT_Natsu_627
+    21301258: FT_Natsu_628
+    21301260: FT_Natsu_629
+    21301262: FT_Natsu_630
+    21301264: FT_Natsu_631
+    21301266: FT_Natsu_632
+    21301268: FT_Natsu_633
+    21301270: FT_Natsu_634
+    21301272: FT_Natsu_635
+    21301274: FT_Natsu_636
+    21301276: FT_Natsu_637
+    21301278: FT_Natsu_638
+    21301280: FT_Natsu_639
+    21301282: FT_Natsu_640
+    21301284: FT_Natsu_641
+    21301286: FT_Natsu_642
+    21301288: FT_Natsu_643
+    21301290: FT_Natsu_644
+    21301292: FT_Natsu_645
+    21301294: FT_Natsu_646
+    21301296: FT_Natsu_647
+    21301298: FT_Natsu_648
+    21301300: FT_Natsu_649
+    21301302: FT_Natsu_650
+    21301304: FT_Natsu_651
+    21301306: FT_Natsu_652
+    21301308: FT_Natsu_653
+    21301310: FT_Natsu_654
+    21301312: FT_Natsu_655
+    21301314: FT_Natsu_656
+    21301316: FT_Natsu_657
+    21301318: FT_Natsu_658
+    21301320: FT_Natsu_659
+    21301322: 1
+    21301324: FT_Natsu_2
+    21301326: FT_Natsu_3
+    21301328: FT_Natsu_23
+    21301330: FT_Natsu_24
+    21301332: FT_Natsu_25
+    21301334: FT_Natsu_26
+    21301336: FT_Natsu_27
+    21301338: FT_Natsu_31
+    21301340: FT_Natsu_435-7
+    21301342: FT_Natsu_354-7
+    21301344: FT_Natsu_354-1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 46
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FT_Natsu_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2109
+        width: 9
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2109
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2107
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2109
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2109
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2109
+        width: 10
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2109
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1965
+        width: 243
+        height: 153
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_20
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1936
+        width: 126
+        height: 192
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1962
+        width: 95
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1962
+        width: 95
+        height: 125
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1963
+        width: 120
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1965
+        width: 120
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1966
+        width: 118
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_26
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1963
+        width: 131
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_27
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1964
+        width: 128
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1846
+        width: 39
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1846
+        width: 39
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1846
+        width: 45
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1846
+        width: 47
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1846
+        width: 48
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1846
+        width: 52
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1846
+        width: 53
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1846
+        width: 45
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1846
+        width: 54
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1875
+        width: 38
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1718
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1719
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1719
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1719
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_88
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1718
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_89
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1718
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_90
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1718
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_91
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1718
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_92
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1718
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_93
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1718
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_94
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1719
+        width: 54
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_163
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1725
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_173
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1711
+        width: 6
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_211
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1591
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_212
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1591
+        width: 45
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5335129, y: 0.6269981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_213
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1591
+        width: 67
+        height: 62
+      alignment: 9
+      pivot: {x: 0.567527, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_214
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1591
+        width: 70
+        height: 91
+      alignment: 9
+      pivot: {x: 0.48922774, y: 0.5745769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_215
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1592
+        width: 52
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41347015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_216
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1592
+        width: 52
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5870056, y: 0.62419575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_217
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1601
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_218
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1606
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_219
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1606
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_220
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1605
+        width: 52
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_221
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1605
+        width: 52
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_222
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1603
+        width: 52
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_223
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1603
+        width: 52
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_245
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1486
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_246
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1486
+        width: 69
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_247
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1486
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_248
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1486
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_249
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1486
+        width: 74
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_250
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1486
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1482
+        width: 78
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50807035, y: 0.70656204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1480
+        width: 74
+        height: 63
+      alignment: 9
+      pivot: {x: 0.58497745, y: 0.6988603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1482
+        width: 67
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5206499, y: 0.7495357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1482
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50922424, y: 0.75803465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1481
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.41614693, y: 0.67822057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_251-6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1481
+        width: 76
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48015633, y: 0.21723175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_268
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1374
+        width: 52
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_269
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1374
+        width: 52
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_270
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1374
+        width: 54
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_271
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1374
+        width: 53
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_272
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1374
+        width: 73
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_273
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1393
+        width: 84
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_274
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1381
+        width: 86
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_275
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1374
+        width: 84
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_276
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1374
+        width: 89
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_277
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1374
+        width: 34
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_278
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1374
+        width: 65
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1261
+        width: 64
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1261
+        width: 59
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1261
+        width: 52
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1261
+        width: 72
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1261
+        width: 52
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1261
+        width: 54
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1261
+        width: 72
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1261
+        width: 54
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1261
+        width: 52
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_286-8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1261
+        width: 52
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_302
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1130
+        width: 61
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_303
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1127
+        width: 75
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_304
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1124
+        width: 74
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_305
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1117
+        width: 33
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_306
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1119
+        width: 75
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_307
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1124
+        width: 70
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_308
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1133
+        width: 70
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_309
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1140
+        width: 86
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_319
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 989
+        width: 83
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_320
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 989
+        width: 82
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_321
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 989
+        width: 79
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_322
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 989
+        width: 82
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_323
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 989
+        width: 73
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_324
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 989
+        width: 96
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_325
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 989
+        width: 100
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_326
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 989
+        width: 76
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_327
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 989
+        width: 70
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_328
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 989
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_336
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1008
+        width: 14
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_337
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1010
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_338
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1009
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_346
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 963
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_349
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 868
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_350
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 868
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_351
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 868
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_352
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 868
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_353-2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 893
+        width: 61
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_353-3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 885
+        width: 84
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_355
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 880
+        width: 85
+        height: 57
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_356
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 881
+        width: 83
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_357
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 884
+        width: 66
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_353-1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 898
+        width: 45
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 794
+        width: 90
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 784
+        width: 133
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 776
+        width: 169
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 171
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 771
+        width: 167
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-7
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 770
+        width: 115
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 566
+        width: 119
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 563
+        width: 77
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 564
+        width: 79
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 564
+        width: 80
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 566
+        width: 82
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 566
+        width: 79
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 566
+        width: 120
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-9
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 566
+        width: 70
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_449
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 595
+        width: 14
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_450
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 597
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_451
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 596
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_454
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 524
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_456
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_458
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 524
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_470
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 109
+        height: 107
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_474
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 406
+        width: 106
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_476
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 406
+        width: 102
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_479
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 406
+        width: 104
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_480
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 406
+        width: 107
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_481
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 406
+        width: 113
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_483
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 406
+        width: 121
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_485
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 406
+        width: 99
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_487
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 406
+        width: 66
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_488
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 407
+        width: 71
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_496
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 315
+        width: 54
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_497
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 315
+        width: 72
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_505
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 333
+        width: 14
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_506
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 335
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_507
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 334
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_510
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 282
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_512
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 282
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_516
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 282
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_520
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 92
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_521
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 168
+        width: 55
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_522
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 100
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_523
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 168
+        width: 98
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_524
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 168
+        width: 75
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_525
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 168
+        width: 61
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_526
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 168
+        width: 52
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_534
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 180
+        width: 14
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_535
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 182
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_536
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 181
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 21
+        width: 40
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 50
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 52
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 18
+        width: 53
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 18
+        width: 56
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 18
+        width: 49
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_544-7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 38
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_550
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 40
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_551
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 17
+        width: 38
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_552
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 17
+        width: 38
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1870
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_53
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1871
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 698
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_435-7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 566
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 874
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_216-1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1593
+        width: 52
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Natsu_354-1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 795
+        width: 61
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5717 @@
+fileFormatVersion: 2
+guid: 318d0ad4434e65848845bc0d98623ebc
+timeCreated: 1509476412
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_0
+    21300002: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_1
+    21300004: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_2
+    21300006: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_3
+    21300008: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_4
+    21300010: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_5
+    21300012: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_6
+    21300014: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_7
+    21300016: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_8
+    21300018: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_9
+    21300020: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_10
+    21300022: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_11
+    21300024: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_12
+    21300026: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_13
+    21300028: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_14
+    21300030: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_15
+    21300032: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_16
+    21300034: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_17
+    21300036: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_18
+    21300038: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_19
+    21300040: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_20
+    21300042: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_21
+    21300044: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_22
+    21300046: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_23
+    21300048: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_24
+    21300050: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_25
+    21300052: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_26
+    21300054: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_27
+    21300056: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_28
+    21300058: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_29
+    21300060: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_30
+    21300062: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_31
+    21300064: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_32
+    21300066: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_33
+    21300068: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_34
+    21300070: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_35
+    21300072: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_36
+    21300074: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_37
+    21300076: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_38
+    21300078: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_39
+    21300080: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_40
+    21300082: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_41
+    21300084: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_42
+    21300086: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_43
+    21300088: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_44
+    21300090: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_45
+    21300092: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_46
+    21300094: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_47
+    21300096: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_48
+    21300098: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_49
+    21300100: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_50
+    21300102: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_51
+    21300104: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_52
+    21300106: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_53
+    21300108: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_54
+    21300110: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_55
+    21300112: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_56
+    21300114: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_57
+    21300116: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_58
+    21300118: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_59
+    21300120: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_60
+    21300122: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_61
+    21300124: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_62
+    21300126: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_63
+    21300128: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_64
+    21300130: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_65
+    21300132: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_66
+    21300134: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_67
+    21300136: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_68
+    21300138: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_69
+    21300140: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_70
+    21300142: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_71
+    21300144: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_72
+    21300146: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_73
+    21300148: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_74
+    21300150: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_75
+    21300152: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_76
+    21300154: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_77
+    21300156: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_78
+    21300158: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_79
+    21300160: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_80
+    21300162: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_81
+    21300164: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_82
+    21300166: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_83
+    21300168: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_84
+    21300170: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_85
+    21300172: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_86
+    21300174: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_87
+    21300176: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_88
+    21300178: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_89
+    21300180: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_90
+    21300182: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_91
+    21300184: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_92
+    21300186: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_93
+    21300188: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_94
+    21300190: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_95
+    21300192: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_96
+    21300194: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_97
+    21300196: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_98
+    21300198: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_99
+    21300200: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_100
+    21300202: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_101
+    21300204: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_102
+    21300206: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_103
+    21300208: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_104
+    21300210: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_105
+    21300212: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_106
+    21300214: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_107
+    21300216: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_108
+    21300218: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_109
+    21300220: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_110
+    21300222: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_111
+    21300224: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_112
+    21300226: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_113
+    21300228: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_114
+    21300230: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_115
+    21300232: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_116
+    21300234: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_117
+    21300236: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_118
+    21300238: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_119
+    21300240: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_120
+    21300242: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_121
+    21300244: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_122
+    21300246: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_123
+    21300248: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_124
+    21300250: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_125
+    21300252: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_126
+    21300254: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_127
+    21300256: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_128
+    21300258: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_129
+    21300260: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_130
+    21300262: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_131
+    21300264: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_132
+    21300266: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_133
+    21300268: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_134
+    21300270: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_135
+    21300272: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_136
+    21300274: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_137
+    21300276: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_138
+    21300278: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_139
+    21300280: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_140
+    21300282: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_141
+    21300284: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_142
+    21300286: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_143
+    21300288: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_144
+    21300290: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_145
+    21300292: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_146
+    21300294: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_147
+    21300296: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_148
+    21300298: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_149
+    21300300: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_150
+    21300302: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_151
+    21300304: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_152
+    21300306: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_153
+    21300308: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_154
+    21300310: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_155
+    21300312: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_156
+    21300314: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_157
+    21300316: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_158
+    21300318: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_159
+    21300320: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_160
+    21300322: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_161
+    21300324: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_162
+    21300326: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_163
+    21300328: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_164
+    21300330: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_165
+    21300332: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_166
+    21300334: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_167
+    21300336: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_168
+    21300338: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_169
+    21300340: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_170
+    21300342: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_171
+    21300344: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_172
+    21300346: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_173
+    21300348: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_174
+    21300350: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_175
+    21300352: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_176
+    21300354: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_177
+    21300356: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_178
+    21300358: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_179
+    21300360: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_180
+    21300362: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_181
+    21300364: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_182
+    21300366: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_183
+    21300368: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_184
+    21300370: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_185
+    21300372: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_186
+    21300374: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_187
+    21300376: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_188
+    21300378: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_189
+    21300380: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_190
+    21300382: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_191
+    21300384: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_192
+    21300386: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_193
+    21300388: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_194
+    21300390: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_195
+    21300392: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_196
+    21300394: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_197
+    21300396: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_198
+    21300398: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_199
+    21300400: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_200
+    21300402: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_201
+    21300404: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_202
+    21300406: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_203
+    21300408: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_204
+    21300410: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_205
+    21300412: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_206
+    21300414: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_207
+    21300416: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_208
+    21300418: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_209
+    21300420: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_210
+    21300422: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_211
+    21300424: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_212
+    21300426: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_213
+    21300428: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_214
+    21300430: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_215
+    21300432: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_216
+    21300434: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_217
+    21300436: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_218
+    21300438: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_219
+    21300440: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_220
+    21300442: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_221
+    21300444: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_222
+    21300446: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_223
+    21300448: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_224
+    21300450: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_225
+    21300452: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_226
+    21300454: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_227
+    21300456: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_228
+    21300458: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_229
+    21300460: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_230
+    21300462: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_231
+    21300464: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_232
+    21300466: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_233
+    21300468: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_234
+    21300470: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_235
+    21300472: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_236
+    21300474: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_237
+    21300476: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_238
+    21300478: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_239
+    21300480: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_240
+    21300482: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_241
+    21300484: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_242
+    21300486: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_243
+    21300488: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_244
+    21300490: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_245
+    21300492: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_246
+    21300494: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_247
+    21300496: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_248
+    21300498: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_249
+    21300500: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_250
+    21300502: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_251
+    21300504: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_252
+    21300506: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_253
+    21300508: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_254
+    21300510: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_255
+    21300512: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_256
+    21300514: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_257
+    21300516: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_258
+    21300518: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_259
+    21300520: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_260
+    21300522: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_261
+    21300524: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_262
+    21300526: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_263
+    21300528: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_264
+    21300530: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_265
+    21300532: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_266
+    21300534: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_267
+    21300536: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_268
+    21300538: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_269
+    21300540: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_270
+    21300542: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_271
+    21300544: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_272
+    21300546: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_273
+    21300548: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_274
+    21300550: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_275
+    21300552: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_276
+    21300554: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_277
+    21300556: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_278
+    21300558: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_279
+    21300560: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_280
+    21300562: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_281
+    21300564: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_282
+    21300566: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_283
+    21300568: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_284
+    21300570: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_285
+    21300572: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_286
+    21300574: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_287
+    21300576: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_288
+    21300578: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_289
+    21300580: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_290
+    21300582: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_291
+    21300584: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_292
+    21300586: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_293
+    21300588: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_294
+    21300590: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_295
+    21300592: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_296
+    21300594: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_297
+    21300596: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_298
+    21300598: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_299
+    21300600: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_300
+    21300602: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_301
+    21300604: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_302
+    21300606: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_303
+    21300608: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_304
+    21300610: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_305
+    21300612: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_306
+    21300614: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_307
+    21300616: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_308
+    21300618: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_309
+    21300620: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_310
+    21300622: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_311
+    21300624: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_312
+    21300626: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_313
+    21300628: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_314
+    21300630: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_315
+    21300632: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_316
+    21300634: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_317
+    21300636: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_318
+    21300638: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_319
+    21300640: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_320
+    21300642: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_321
+    21300644: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_322
+    21300646: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_323
+    21300648: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_324
+    21300650: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_325
+    21300652: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_326
+    21300654: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_327
+    21300656: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_328
+    21300658: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_329
+    21300660: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_330
+    21300662: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_331
+    21300664: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_332
+    21300666: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_333
+    21300668: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_334
+    21300670: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_335
+    21300672: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_336
+    21300674: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_337
+    21300676: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_338
+    21300678: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_339
+    21300680: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_340
+    21300682: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_341
+    21300684: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_342
+    21300686: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_343
+    21300688: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_344
+    21300690: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_345
+    21300692: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_346
+    21300694: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_347
+    21300696: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_348
+    21300698: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_349
+    21300700: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_350
+    21300702: Neo Geo NGCD - Metal Slug 2 Metal Slug X - NOP-03 Sarubia_351
+    21300704: Boss 1_0
+    21300706: Boss 1_1
+    21300708: Boss 1_2
+    21300710: Boss 1_3
+    21300712: Boss 1_4
+    21300714: Boss 1_5
+    21300716: Boss 1_6
+    21300718: Boss 1_7
+    21300720: Boss 1_8
+    21300722: Boss 1_9
+    21300724: Boss 1_10
+    21300726: Boss 1_11
+    21300728: Boss 1_12
+    21300730: Boss 1_13
+    21300732: Boss 1_14
+    21300734: Boss 1_15
+    21300736: Boss 1_16
+    21300738: Boss 1_17
+    21300740: Boss 1_18
+    21300742: Boss 1_19
+    21300744: Boss 1_20
+    21300746: Boss 1_21
+    21300748: Boss 1_22
+    21300750: Boss 1_23
+    21300752: Boss 1_24
+    21300754: Boss 1_25
+    21300756: Boss 1_26
+    21300758: Boss 1_27
+    21300760: Boss 1_28
+    21300762: Boss 1_29
+    21300764: Boss 1_30
+    21300766: Boss 1_31
+    21300768: Boss 1_32
+    21300770: Boss 1_33
+    21300772: Boss 1_34
+    21300774: Boss 1_35
+    21300776: Boss 1_36
+    21300778: Boss 1_37
+    21300780: Boss 1_38
+    21300782: Boss 1_39
+    21300784: Boss 1_40
+    21300786: Boss 1_41
+    21300788: Boss 1_42
+    21300790: Boss 1_43
+    21300792: Boss 1_44
+    21300794: Boss 1_45
+    21300796: Boss 1_46
+    21300798: Boss 1_47
+    21300800: Boss 1_48
+    21300802: Boss 1_49
+    21300804: Boss 1_50
+    21300806: Boss 1_51
+    21300808: Boss 1_52
+    21300810: Boss 1_53
+    21300812: Boss 1_54
+    21300814: Boss 1_55
+    21300816: Boss 1_56
+    21300818: Boss 1_57
+    21300820: Boss 1_58
+    21300822: Boss 1_59
+    21300824: Boss 1_60
+    21300826: Boss 1_61
+    21300828: Boss 1_62
+    21300830: Boss 1_63
+    21300832: Boss 1_64
+    21300834: Boss 1_65
+    21300836: Boss 1_66
+    21300838: Boss 1_67
+    21300840: Boss 1_68
+    21300842: Boss 1_69
+    21300844: Boss 1_70
+    21300846: Boss 1_71
+    21300848: Boss 1_72
+    21300850: Boss 1_73
+    21300852: Boss 1_74
+    21300854: Boss 1_75
+    21300856: Boss 1_76
+    21300858: Boss 1_77
+    21300860: Boss 1_78
+    21300862: Boss 1_79
+    21300864: Boss 1_80
+    21300866: Boss 1_81
+    21300868: Boss 1_82
+    21300870: Boss 1_83
+    21300872: Boss 1_84
+    21300874: Boss 1_85
+    21300876: Boss 1_86
+    21300878: Boss 1_87
+    21300880: Boss 1_88
+    21300882: Boss 1_89
+    21300884: Boss 1_90
+    21300886: Boss 1_91
+    21300888: Boss 1_92
+    21300890: Boss 1_93
+    21300892: Boss 1_94
+    21300894: Boss 1_95
+    21300896: Boss 1_96
+    21300898: Boss 1_97
+    21300900: Boss 1_98
+    21300902: Boss 1_99
+    21300904: Boss 1_100
+    21300906: Boss 1_101
+    21300908: Boss 1_102
+    21300910: Boss 1_103
+    21300912: Boss 1_104
+    21300914: Boss 1_105
+    21300916: Boss 1_106
+    21300918: Boss 1_107
+    21300920: Boss 1_108
+    21300922: Boss 1_109
+    21300924: Boss 1_110
+    21300926: Boss 1_111
+    21300928: Boss 1_112
+    21300930: Boss 1_113
+    21300932: Boss 1_114
+    21300934: Boss 1_115
+    21300936: Boss 1_116
+    21300938: Boss 1_117
+    21300940: Boss 1_118
+    21300942: Boss 1_119
+    21300944: Boss 1_120
+    21300946: Boss 1_121
+    21300948: Boss 1_122
+    21300950: Boss 1_123
+    21300952: Boss 1_124
+    21300954: Boss 1_125
+    21300956: Boss 1_126
+    21300958: Boss 1_127
+    21300960: Boss 1_128
+    21300962: Boss 1_129
+    21300964: Boss 1_130
+    21300966: Boss 1_131
+    21300968: Boss 1_132
+    21300970: Boss 1_133
+    21300972: Boss 1_134
+    21300974: Boss 1_135
+    21300976: Boss 1_136
+    21300978: Boss 1_137
+    21300980: Boss 1_138
+    21300982: Boss 1_139
+    21300984: Boss 1_140
+    21300986: Boss 1_141
+    21300988: Boss 1_142
+    21300990: Boss 1_143
+    21300992: Boss 1_144
+    21300994: boss1_preparing-1
+    21300996: boss1_preparing-2
+    21300998: boss1_preparing-3
+    21301000: boss1_preparing-4
+    21301002: boss1_preparing-5
+    21301004: boss1_preparing-6
+    21301006: boss1_preparing-7
+    21301008: Boss 1_152
+    21301010: Boss 1_153
+    21301012: Boss 1_154
+    21301014: Boss 1_155
+    21301016: Boss 1_156
+    21301018: Boss 1_157
+    21301020: Boss 1_158
+    21301022: Boss 1_159
+    21301024: Boss 1_160
+    21301026: Boss 1_161
+    21301028: Boss 1_162
+    21301030: Boss 1_163
+    21301032: Boss 1_164
+    21301034: Boss 1_165
+    21301036: Boss 1_166
+    21301038: Boss 1_167
+    21301040: boss1_shoot-2
+    21301042: boss1_shoot-3
+    21301044: boss1_shoot-4
+    21301046: boss1_shoot-5
+    21301048: boss1_shoot-6
+    21301050: boss1_shoot-7
+    21301052: Boss 1_174
+    21301054: Boss 1_175
+    21301056: Boss 1_176
+    21301058: Boss 1_177
+    21301060: Boss 1_178
+    21301062: Boss 1_179
+    21301064: Boss 1_180
+    21301066: Boss 1_181
+    21301068: Boss 1_182
+    21301070: Boss 1_183
+    21301072: Boss 1_184
+    21301074: Boss 1_185
+    21301076: Boss 1_186
+    21301078: Boss 1_187
+    21301080: Boss 1_188
+    21301082: Boss 1_189
+    21301084: Boss 1_190
+    21301086: Boss 1_191
+    21301088: Boss 1_192
+    21301090: Boss 1_193
+    21301092: Boss 1_194
+    21301094: Boss 1_195
+    21301096: Boss 1_196
+    21301098: Boss 1_197
+    21301100: Boss 1_198
+    21301102: Boss 1_199
+    21301104: Boss 1_200
+    21301106: Boss 1_201
+    21301108: boss1_die-1
+    21301110: boss1_die-2
+    21301112: boss1_die-3
+    21301114: boss1_die-4
+    21301116: Boss 1_206
+    21301118: boss1_die-6
+    21301120: Boss 1_208
+    21301122: Boss 1_209
+    21301124: Boss 1_210
+    21301126: Boss 1_211
+    21301128: Boss 1_212
+    21301130: Boss 1_213
+    21301132: Boss 1_214
+    21301134: Boss 1_215
+    21301136: Boss 1_216
+    21301138: Boss 1_217
+    21301140: Boss 1_218
+    21301142: Boss 1_219
+    21301144: Boss 1_220
+    21301146: Boss 1_221
+    21301148: Boss 1_222
+    21301150: Boss 1_223
+    21301152: Boss 1_224
+    21301154: Boss 1_225
+    21301156: Boss 1_226
+    21301158: Boss 1_227
+    21301160: Boss 1_228
+    21301162: Boss 1_229
+    21301164: Boss 1_230
+    21301166: Boss 1_231
+    21301168: Boss 1_232
+    21301170: Boss 1_233
+    21301172: Boss 1_234
+    21301174: Boss 1_235
+    21301176: Boss 1_236
+    21301178: Boss 1_237
+    21301180: Boss 1_238
+    21301182: Boss 1_239
+    21301184: Boss 1_240
+    21301186: Boss 1_241
+    21301188: Boss 1_242
+    21301190: Boss 1_243
+    21301192: Boss 1_244
+    21301194: Boss 1_245
+    21301196: Boss 1_246
+    21301198: Boss 1_247
+    21301200: Boss 1_248
+    21301202: Boss 1_249
+    21301204: Boss 1_250
+    21301206: Boss 1_251
+    21301208: Boss 1_252
+    21301210: Boss 1_253
+    21301212: Boss 1_254
+    21301214: Boss 1_255
+    21301216: Boss 1_256
+    21301218: Boss 1_257
+    21301220: Boss 1_258
+    21301222: Boss 1_259
+    21301224: Boss 1_260
+    21301226: Boss 1_261
+    21301228: Boss 1_262
+    21301230: Boss 1_263
+    21301232: Boss 1_264
+    21301234: Boss 1_265
+    21301236: Boss 1_266
+    21301238: Boss 1_267
+    21301240: Boss 1_268
+    21301242: Boss 1_269
+    21301244: Boss 1_270
+    21301246: Boss 1_271
+    21301248: Boss 1_272
+    21301250: Boss 1_273
+    21301252: Boss 1_274
+    21301254: Boss 1_275
+    21301256: Boss 1_276
+    21301258: Boss 1_277
+    21301260: Boss 1_278
+    21301262: Boss 1_279
+    21301264: Boss 1_280
+    21301266: Boss 1_281
+    21301268: Boss 1_282
+    21301270: boss1_fire-16
+    21301272: boss1_fire-15
+    21301274: boss1_fire-14
+    21301276: boss1_fire-13
+    21301278: boss1_fire-1
+    21301280: boss1_fire-2
+    21301282: boss1_fire-3
+    21301284: boss1_fire-4
+    21301286: boss1_fire-6
+    21301288: boss1_fire-9
+    21301290: boss1_fire-10
+    21301292: boss1_fire-11
+    21301294: boss1_fire-12
+    21301296: boss1_fire-13
+    21301298: boss1_fire-14
+    21301300: Boss 1_301
+    21301302: Boss 1_302
+    21301304: Boss 1_303
+    21301306: Boss 1_304
+    21301308: Boss 1_305
+    21301310: Boss 1_306
+    21301312: Boss 1_307
+    21301314: Boss 1_308
+    21301316: Boss 1_309
+    21301318: Boss 1_310
+    21301320: Boss 1_311
+    21301322: Boss 1_312
+    21301324: Boss 1_313
+    21301326: Boss 1_314
+    21301328: boss1_cannonball-1
+    21301330: boss1_cannonball-2
+    21301332: boss1_cannonball-3
+    21301334: boss1_cannonball-4
+    21301336: boss1_cannonball-5
+    21301338: boss1_cannonball-6
+    21301340: boss1_cannonball-7
+    21301342: boss1_cannonball-8
+    21301344: boss1_cannonball-9
+    21301346: boss1_cannonball-10
+    21301348: boss1_cannonball-11
+    21301350: boss1_cannonball-12
+    21301352: boss1_cannonball-13
+    21301354: boss1_cannonball-14
+    21301356: boss1_cannonball-15
+    21301358: boss1_cannonball-16
+    21301360: boss1_cannonball-17
+    21301362: boss1_cannonball-18
+    21301364: Boss 1_333
+    21301366: Boss 1_334
+    21301368: Boss 1_335
+    21301370: boss1_casing-1
+    21301372: boss1_casing-2
+    21301374: boss1_casing-3
+    21301376: boss1_casing-4
+    21301378: boss1_casing-5
+    21301380: boss1_casing-6
+    21301382: boss1_casing-7
+    21301384: boss1_casing-8
+    21301386: boss1_casing-9
+    21301388: boss1_casing-10
+    21301390: boss1_casing-11
+    21301392: boss1_casing-12
+    21301394: boss1_casing-13
+    21301396: boss1_casing-14
+    21301398: boss1_casing-15
+    21301400: boss1_casing-16
+    21301402: boss1_fire-15
+    21301404: boss1_fire-8
+    21301406: boss1_fire-7
+    21301408: boss1_fire-5
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2097
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2097
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2141
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2141
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2141
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1998
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1998
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1998
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1998
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1998
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1998
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2042
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2042
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2042
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1899
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1899
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1899
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1899
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1899
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1899
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_25
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1953
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1953
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1953
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1941
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1941
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1941
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_31
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1941
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_32
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1941
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1926
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1926
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1926
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1926
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1926
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1926
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1926
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1801
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1801
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1801
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1801
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1789
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1801
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1850
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1850
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1850
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1850
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1850
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1850
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1850
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1850
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1836
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1836
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1836
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_57
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1836
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1836
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1836
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_60
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1836
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1791
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1791
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_63
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1791
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1791
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1791
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1791
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1791
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1791
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_75
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1791
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1790
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1789
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_81
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1791
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1791
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1791
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1791
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_87
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1791
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_89
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1791
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_91
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1791
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_93
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_96
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1791
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1789
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_98
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_99
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1791
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_102
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_103
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_104
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_105
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_106
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1791
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_107
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_108
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1791
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_110
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1791
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_111
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_112
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1791
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_113
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1791
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1791
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_115
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_116
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1789
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_117
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1789
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_118
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_119
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1789
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_120
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_121
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_122
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1791
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_123
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_124
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1791
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_126
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1789
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_127
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1691
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_128
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1691
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_129
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1691
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_130
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1691
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1691
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_132
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1691
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_133
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1691
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1592
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_135
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1592
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_136
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1592
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1592
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_138
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_139
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_140
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_141
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_142
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1632
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_144
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1488
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1488
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1488
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1488
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1488
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1488
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_preparing-7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1387
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_152
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_153
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1432
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_155
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_156
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_157
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_158
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1432
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_159
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_160
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_161
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_162
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_163
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1432
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_164
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_165
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_166
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_167
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1432
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1287
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1287
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1287
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1287
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1287
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_shoot-7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1287
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_174
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1188
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_175
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1188
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_176
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1188
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_177
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1188
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_178
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1188
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_179
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1188
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_180
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1230
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_181
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_182
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_183
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1230
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_184
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_185
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1230
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_186
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_187
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_188
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1085
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_189
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1085
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_190
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1085
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_191
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1085
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_192
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1085
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_193
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1085
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_194
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 990
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_195
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1030
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_196
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1030
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_197
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1030
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_198
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1030
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1030
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_200
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1030
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_201
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1030
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_die-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_die-2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 899
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_die-3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 899
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_die-4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 899
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_206
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 899
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_die-6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 899
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_209
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 880
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_210
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 880
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 880
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_212
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 880
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_213
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 880
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_214
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 880
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_215
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 886
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_216
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 886
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_217
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 886
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_219
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_220
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 886
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_221
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 886
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_222
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_223
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_224
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_225
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_226
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 880
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_227
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_228
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 880
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_229
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_230
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_231
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 880
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_232
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 880
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_233
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 880
+        width: 385
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_234
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 782
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 782
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_236
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_237
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_238
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 830
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_239
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_240
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_241
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_242
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 830
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_243
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 832
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_244
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_245
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_246
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 832
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_247
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_248
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_250
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 832
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_251
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 832
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_252
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_253
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_254
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 832
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_255
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_256
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_257
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_258
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 832
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_259
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 832
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_260
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_261
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 832
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_262
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_263
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 832
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_264
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 830
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_265
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 816
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_266
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_267
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_268
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_269
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 818
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_270
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 818
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_271
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 698
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_272
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 698
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_273
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 698
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_274
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 698
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_275
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_276
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 668
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_277
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 669
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_278
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 671
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_279
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 670
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_280
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 673
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_281
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 674
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_282
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 675
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 631
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 634
+        width: 38
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 640
+        width: 48
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 633
+        width: 47
+        height: 27
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 631
+        width: 51
+        height: 35
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 631
+        width: 50
+        height: 36
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 631
+        width: 52
+        height: 39
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 631
+        width: 51
+        height: 41
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 632
+        width: 48
+        height: 41
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 635
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 588
+        width: 47
+        height: 39
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 591
+        width: 42
+        height: 37
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 592
+        width: 38
+        height: 36
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 594
+        width: 38
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 594
+        width: 32
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_301
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_302
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_303
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_304
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_305
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_306
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_307
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_308
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 571
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_309
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_310
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 553
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_311
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 553
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_312
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 553
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_313
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 553
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_314
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 553
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 552
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 554
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_cannonball-18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_333
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_334
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss 1_335
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 535
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 534
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 534
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 535
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 535
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 535
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 536
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 535
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 534
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 534
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 534
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 534
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 534
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 535
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_casing-16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 537
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss1_fire-1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 593
+        width: 32
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

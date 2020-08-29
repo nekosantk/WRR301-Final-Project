@@ -1,0 +1,2677 @@
+fileFormatVersion: 2
+guid: 1f6ee0254e112ee4a9b88e7a73b46b1a
+timeCreated: 1508426582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FT_Elfman_6
+    21300002: FT_Elfman_7
+    21300004: FT_Elfman_8
+    21300006: FT_Elfman_9
+    21300008: FT_Elfman_10
+    21300010: FT_Elfman_11
+    21300012: FT_Elfman_12
+    21300014: FT_Elfman_13
+    21300016: FT_Elfman_14
+    21300018: FT_Elfman_15
+    21300020: FT_Elfman_16
+    21300022: FT_Elfman_17
+    21300024: FT_Elfman_18
+    21300026: FT_Elfman_19
+    21300028: FT_Elfman_21
+    21300030: FT_Elfman_22
+    21300032: FT_Elfman_23
+    21300034: FT_Elfman_24
+    21300036: FT_Elfman_25
+    21300038: FT_Elfman_26
+    21300040: FT_Elfman_27
+    21300042: FT_Elfman_28
+    21300044: FT_Elfman_29
+    21300046: FT_Elfman_30
+    21300048: FT_Elfman_31
+    21300050: FT_Elfman_32
+    21300052: FT_Elfman_35
+    21300054: FT_Elfman_36
+    21300056: FT_Elfman_37
+    21300058: FT_Elfman_38
+    21300060: FT_Elfman_40
+    21300062: FT_Elfman_41
+    21300064: FT_Elfman_42
+    21300066: FT_Elfman_43
+    21300068: FT_Elfman_44
+    21300070: FT_Elfman_45
+    21300072: FT_Elfman_48
+    21300074: FT_Elfman_49
+    21300076: FT_Elfman_50
+    21300078: FT_Elfman_56
+    21300080: FT_Elfman_58
+    21300082: FT_Elfman_59
+    21300084: FT_Elfman_61
+    21300086: FT_Elfman_62
+    21300088: FT_Elfman_63
+    21300090: FT_Elfman_64
+    21300092: FT_Elfman_65
+    21300094: FT_Elfman_66
+    21300096: FT_Elfman_77
+    21300098: FT_Elfman_78
+    21300100: FT_Elfman_79
+    21300102: FT_Elfman_80
+    21300104: FT_Elfman_83
+    21300106: FT_Elfman_84
+    21300108: FT_Elfman_85
+    21300110: FT_Elfman_86
+    21300112: FT_Elfman_87
+    21300114: FT_Elfman_88
+    21300116: FT_Elfman_89
+    21300118: FT_Elfman_90
+    21300120: FT_Elfman_91
+    21300122: FT_Elfman_92
+    21300124: FT_Elfman_93
+    21300126: FT_Elfman_95
+    21300128: FT_Elfman_96
+    21300130: FT_Elfman_97
+    21300132: FT_Elfman_98
+    21300134: FT_Elfman_99
+    21300136: FT_Elfman_100
+    21300138: FT_Elfman_101
+    21300140: FT_Elfman_102
+    21300142: FT_Elfman_103
+    21300144: FT_Elfman_106
+    21300146: FT_Elfman_107
+    21300148: FT_Elfman_108
+    21300150: FT_Elfman_109
+    21300152: FT_Elfman_110
+    21300154: FT_Elfman_111
+    21300156: FT_Elfman_113
+    21300158: FT_Elfman_114
+    21300160: FT_Elfman_115
+    21300162: FT_Elfman_116
+    21300164: FT_Elfman_117
+    21300166: FT_Elfman_118
+    21300168: FT_Elfman_119
+    21300170: FT_Elfman_120
+    21300172: FT_Elfman_121
+    21300174: FT_Elfman_126
+    21300176: FT_Elfman_127
+    21300178: FT_Elfman_130
+    21300180: FT_Elfman_131
+    21300182: FT_Elfman_132
+    21300184: FT_Elfman_133
+    21300186: FT_Elfman_134
+    21300188: FT_Elfman_137
+    21300190: FT_Elfman_138
+    21300192: FT_Elfman_139
+    21300194: FT_Elfman_140
+    21300196: FT_Elfman_141
+    21300198: FT_Elfman_142
+    21300200: FT_Elfman_144
+    21300202: FT_Elfman_146
+    21300204: FT_Elfman_147
+    21300206: FT_Elfman_148
+    21300208: FT_Elfman_149
+    21300210: FT_Elfman_150
+    21300212: FT_Elfman_151
+    21300214: FT_Elfman_152
+    21300216: FT_Elfman_153
+    21300218: FT_Elfman_154
+    21300220: FT_Elfman_157
+    21300222: FT_Elfman_158
+    21300224: FT_Elfman_159
+    21300226: FT_Elfman_160
+    21300228: FT_Elfman_161
+    21300230: FT_Elfman_164
+    21300232: FT_Elfman_165
+    21300234: FT_Elfman_166
+    21300236: FT_Elfman_167
+    21300238: FT_Elfman_168
+    21300240: FT_Elfman_169
+    21300242: FT_Elfman_170
+    21300244: FT_Elfman_173
+    21300246: FT_Elfman_174
+    21300248: FT_Elfman_175
+    21300250: FT_Elfman_176
+    21300252: FT_Elfman_177
+    21300254: FT_Elfman_178
+    21300256: FT_Elfman_179
+    21300258: FT_Elfman_180
+    21300260: FT_Elfman_181
+    21300262: FT_Elfman_182
+    21300264: FT_Elfman_183
+    21300266: FT_Elfman_184
+    21300268: FT_Elfman_185
+    21300270: FT_Elfman_186
+    21300272: FT_Elfman_187
+    21300274: FT_Elfman_188
+    21300276: FT_Elfman_189
+    21300278: FT_Elfman_190
+    21300280: FT_Elfman_191
+    21300282: FT_Elfman_192
+    21300284: FT_Elfman_193
+    21300286: FT_Elfman_194
+    21300288: FT_Elfman_195
+    21300290: FT_Elfman_196
+    21300292: FT_Elfman_197
+    21300294: FT_Elfman_198
+    21300296: FT_Elfman_199
+    21300298: FT_Elfman_200
+    21300300: FT_Elfman_201
+    21300302: FT_Elfman_202
+    21300304: FT_Elfman_203
+    21300306: FT_Elfman_204
+    21300308: FT_Elfman_214
+    21300310: FT_Elfman_215
+    21300312: FT_Elfman_217
+    21300314: FT_Elfman_223
+    21300316: FT_Elfman_224
+    21300318: FT_Elfman_225
+    21300320: FT_Elfman_226
+    21300322: FT_Elfman_227
+    21300324: FT_Elfman_228
+    21300326: FT_Elfman_229
+    21300328: FT_Elfman_230
+    21300330: FT_Elfman_232
+    21300332: FT_Elfman_233
+    21300334: FT_Elfman_234
+    21300336: FT_Elfman_235
+    21300338: FT_Elfman_237
+    21300340: FT_Elfman_238
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FT_Elfman_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2592
+        width: 117
+        height: 143
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2592
+        width: 117
+        height: 143
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2722
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2721
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2721
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2589
+        width: 134
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2586
+        width: 134
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2586
+        width: 120
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2585
+        width: 120
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2378
+        width: 126
+        height: 191
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2377
+        width: 114
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2377
+        width: 114
+        height: 136
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2390
+        width: 141
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2390
+        width: 141
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2206
+        width: 40
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2206
+        width: 50
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2206
+        width: 55
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2206
+        width: 54
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2206
+        width: 61
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2206
+        width: 81
+        height: 109
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2206
+        width: 81
+        height: 109
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2206
+        width: 58
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_29
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2206
+        width: 39
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2141
+        width: 154
+        height: 140
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2200
+        width: 106
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2190
+        width: 33
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2083
+        width: 39
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2083
+        width: 39
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2083
+        width: 37
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2083
+        width: 39
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1994
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1994
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1994
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1994
+        width: 67
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1994
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_45
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1975
+        width: 43
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1994
+        width: 74
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_49
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1972
+        width: 43
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_50
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2051
+        width: 7
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_56
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2029
+        width: 6
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_58
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1943
+        width: 45
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_59
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1944
+        width: 45
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1882
+        width: 34
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1882
+        width: 33
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1882
+        width: 41
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_64
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1882
+        width: 46
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1882
+        width: 39
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1882
+        width: 42
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1763
+        width: 44
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1763
+        width: 42
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_79
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1763
+        width: 49
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1763
+        width: 42
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_83
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1763
+        width: 42
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1763
+        width: 41
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_87
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_88
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1763
+        width: 41
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_89
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_90
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_91
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1763
+        width: 60
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_92
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1763
+        width: 41
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_93
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1763
+        width: 40
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_95
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1633
+        width: 41
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_96
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1633
+        width: 54
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1633
+        width: 46
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1633
+        width: 60
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1633
+        width: 81
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1633
+        width: 98
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_101
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1633
+        width: 100
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_102
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1633
+        width: 106
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_103
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1633
+        width: 64
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_106
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1516
+        width: 49
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1516
+        width: 69
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1516
+        width: 60
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1516
+        width: 46
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_110
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1516
+        width: 39
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1516
+        width: 77
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_113
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1516
+        width: 51
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_114
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1516
+        width: 87
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_115
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1516
+        width: 68
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_116
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1516
+        width: 43
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_117
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1516
+        width: 51
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_118
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1516
+        width: 71
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1499
+        width: 33
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1499
+        width: 14
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1499
+        width: 6
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1394
+        width: 68
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_127
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1395
+        width: 78
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_130
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1402
+        width: 53
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_131
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1402
+        width: 71
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1402
+        width: 53
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1399
+        width: 59
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_134
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1393
+        width: 72
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_137
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1280
+        width: 76
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_138
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1280
+        width: 74
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_139
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1280
+        width: 74
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_140
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1280
+        width: 72
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_141
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1280
+        width: 75
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_142
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1280
+        width: 76
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1162
+        width: 109
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_146
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1162
+        width: 108
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_147
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1162
+        width: 41
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_148
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1162
+        width: 64
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_149
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1162
+        width: 62
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_150
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1162
+        width: 64
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_151
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1162
+        width: 61
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_152
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1162
+        width: 108
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_153
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1162
+        width: 81
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_154
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1162
+        width: 60
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_157
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1016
+        width: 84
+        height: 135
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_158
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1016
+        width: 61
+        height: 129
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1016
+        width: 61
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1016
+        width: 56
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1016
+        width: 88
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_164
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 882
+        width: 66
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_165
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 882
+        width: 64
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_166
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 882
+        width: 113
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_167
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 882
+        width: 116
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_168
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 882
+        width: 74
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_169
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 882
+        width: 61
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_170
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 882
+        width: 41
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_173
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 758
+        width: 92
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_174
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 758
+        width: 97
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_175
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 758
+        width: 96
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_176
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 758
+        width: 40
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_177
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 752
+        width: 172
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_178
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 743
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_179
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 743
+        width: 4
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_180
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 625
+        width: 67
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_181
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 625
+        width: 101
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_182
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 625
+        width: 97
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_183
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 625
+        width: 97
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_184
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 625
+        width: 67
+        height: 103
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_185
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 625
+        width: 59
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_186
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 625
+        width: 99
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_187
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 625
+        width: 99
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_188
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 625
+        width: 98
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_189
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 615
+        width: 824
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_190
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 608
+        width: 5
+        height: 7
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_191
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 608
+        width: 4
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_192
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 483
+        width: 59
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_193
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 484
+        width: 72
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_194
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 484
+        width: 72
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_195
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 484
+        width: 74
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_196
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 484
+        width: 71
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_197
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 484
+        width: 72
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_198
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 484
+        width: 64
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_199
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 484
+        width: 96
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_200
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 484
+        width: 95
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_201
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 484
+        width: 86
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_202
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 355
+        width: 67
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_203
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 355
+        width: 65
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_204
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 355
+        width: 40
+        height: 101
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_214
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 319
+        width: 64
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_215
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 319
+        width: 61
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_217
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 319
+        width: 64
+        height: 120
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_223
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 319
+        width: 62
+        height: 123
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_224
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 319
+        width: 59
+        height: 121
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_225
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 236
+        width: 71
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_226
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 236
+        width: 65
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_227
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 236
+        width: 82
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_228
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 235
+        width: 110
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_229
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 235
+        width: 112
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_230
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 235
+        width: 68
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_232
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 55
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_233
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 95
+        width: 52
+        height: 133
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_234
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 95
+        width: 52
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_235
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 59
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_237
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 53
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FT_Elfman_238
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 55
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

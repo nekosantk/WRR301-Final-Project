@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 23d75e636b563114e86d97ad65b1ba55
+timeCreated: 1504496279
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mission 1_crabhut_0
+    21300002: mission 1_crabhut_1
+    21300004: mission 1_crabhut_2
+    21300006: mission 1_crabhut_3
+    21300008: mission 1_crabhut_4
+    21300010: mission 1_crabhut_5
+    21300012: mission 1_crabhut_6
+    21300014: mission 1_crabhut_7
+    21300016: mission 1_crabhut_8
+    21300018: mission 1_crabhut_9
+    21300020: mission 1_crabhut_10
+    21300022: mission 1_crabhut_11
+    21300024: mission 1_crabhut_12
+    21300026: mission 1_crabhut_13
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mission 1_crabhut_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 683
+        width: 433
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_1
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 683
+        width: 285
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_2
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 683
+        width: 486
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_3
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 683
+        width: 172
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_4
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 796
+        width: 212
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_5
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 0
+        width: 1359
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_6
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 374
+        width: 607
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_7
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 374
+        width: 531
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_8
+      rect:
+        serializedVersion: 2
+        x: 6196
+        y: 225
+        width: 1565
+        height: 855
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_9
+      rect:
+        serializedVersion: 2
+        x: 8161
+        y: 363
+        width: 1141
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 683
+        width: 141
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1039
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_12
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 1123
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mission 1_crabhut_13
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 1441
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

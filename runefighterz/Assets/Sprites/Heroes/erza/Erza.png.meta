@@ -1,0 +1,2917 @@
+fileFormatVersion: 2
+guid: 401404b372c9e2747b3bb8cd00f48192
+timeCreated: 1508425885
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Erza_3
+    21300002: Erza_4
+    21300004: Erza_6
+    21300006: Erza_7
+    21300008: Erza_8
+    21300010: Erza_9
+    21300012: Erza_10
+    21300014: Erza_11
+    21300016: Erza_12
+    21300018: Erza_13
+    21300020: Erza_14
+    21300022: Erza_15
+    21300024: Erza_16
+    21300026: Erza_17
+    21300028: Erza_18
+    21300030: Erza_19
+    21300032: Erza_20
+    21300034: Erza_22
+    21300036: Erza_23
+    21300038: Erza_24
+    21300040: Erza_25
+    21300042: Erza_26
+    21300044: Erza_31
+    21300046: Erza_32
+    21300048: Erza_33
+    21300050: Erza_34
+    21300052: Erza_35
+    21300054: Erza_36
+    21300056: Erza_37
+    21300058: Erza_39
+    21300060: Erza_40
+    21300062: Erza_43
+    21300064: Erza_44
+    21300066: Erza_45
+    21300068: Erza_46
+    21300070: Erza_47
+    21300072: Erza_48
+    21300074: Erza_49
+    21300076: Erza_50
+    21300078: Erza_57
+    21300080: Erza_58
+    21300082: Erza_59
+    21300084: Erza_60
+    21300086: Erza_66
+    21300088: Erza_68
+    21300090: Erza_69
+    21300092: Erza_70
+    21300094: Erza_71
+    21300096: Erza_72
+    21300098: Erza_74
+    21300100: Erza_75
+    21300102: Erza_76
+    21300104: Erza_77
+    21300106: Erza_78
+    21300108: Erza_79
+    21300110: Erza_80
+    21300112: Erza_81
+    21300114: Erza_82
+    21300116: Erza_83
+    21300118: Erza_84
+    21300120: Erza_85
+    21300122: Erza_86
+    21300124: Erza_87
+    21300126: Erza_88
+    21300128: Erza_89
+    21300130: Erza_90
+    21300132: Erza_91
+    21300134: Erza_92
+    21300136: Erza_93
+    21300138: Erza_94
+    21300140: Erza_95
+    21300142: Erza_96
+    21300144: Erza_97
+    21300146: Erza_102
+    21300148: Erza_103
+    21300150: Erza_104
+    21300152: Erza_105
+    21300154: Erza_106
+    21300156: Erza_109
+    21300158: Erza_112
+    21300160: Erza_113
+    21300162: Erza_114
+    21300164: Erza_115
+    21300166: Erza_118
+    21300168: Erza_119
+    21300170: Erza_120
+    21300172: Erza_122
+    21300174: Erza_123
+    21300176: Erza_124
+    21300178: Erza_126
+    21300180: Erza_127
+    21300182: Erza_128
+    21300184: Erza_129
+    21300186: Erza_130
+    21300188: Erza_131
+    21300190: Erza_132
+    21300192: Erza_133
+    21300194: Erza_134
+    21300196: Erza_135
+    21300198: Erza_138
+    21300200: Erza_139
+    21300202: Erza_140
+    21300204: Erza_141
+    21300206: Erza_142
+    21300208: Erza_143
+    21300210: Erza_144
+    21300212: Erza_145
+    21300214: Erza_146
+    21300216: Erza_149
+    21300218: Erza_150
+    21300220: Erza_151
+    21300222: Erza_152
+    21300224: Erza_153
+    21300226: Erza_154
+    21300228: Erza_155
+    21300230: Erza_156
+    21300232: Erza_157
+    21300234: Erza_158
+    21300236: Erza_159
+    21300238: Erza_160
+    21300240: Erza_161
+    21300242: Erza_162
+    21300244: Erza_163
+    21300246: Erza_164
+    21300248: Erza_165
+    21300250: Erza_166
+    21300252: Erza_169
+    21300254: Erza_170
+    21300256: Erza_171
+    21300258: Erza_172
+    21300260: Erza_173
+    21300262: Erza_174
+    21300264: Erza_175
+    21300266: Erza_178
+    21300268: Erza_179
+    21300270: Erza_180
+    21300272: Erza_181
+    21300274: Erza_182
+    21300276: Erza_183
+    21300278: Erza_184
+    21300280: Erza_185
+    21300282: Erza_186
+    21300284: Erza_187
+    21300286: Erza_188
+    21300288: Erza_189
+    21300290: Erza_190
+    21300292: Erza_191
+    21300294: Erza_192
+    21300296: Erza_193
+    21300298: Erza_194
+    21300300: Erza_195
+    21300302: Erza_196
+    21300304: Erza_197
+    21300306: Erza_198
+    21300308: Erza_199
+    21300310: Erza_200
+    21300312: Erza_201
+    21300314: Erza_203
+    21300316: Erza_205
+    21300318: Erza_206
+    21300320: Erza_207
+    21300322: Erza_208
+    21300324: Erza_209
+    21300326: Erza_210
+    21300328: Erza_211
+    21300330: Erza_212
+    21300332: Erza_213
+    21300334: Erza_214
+    21300336: Erza_215
+    21300338: Erza_216
+    21300340: Erza_218
+    21300342: Erza_219
+    21300344: Erza_220
+    21300346: Erza_221
+    21300348: Erza_222
+    21300350: Erza_223
+    21300352: Erza_224
+    21300354: Erza_225
+    21300356: Erza_0
+    21300358: Erza_1
+    21300360: Erza_2
+    21300362: Erza_5
+    21300364: Erza_21
+    21300366: Erza_27
+    21300368: Erza_28
+    21300370: Erza_29
+    21300372: Erza_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: 0, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Erza_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3871
+        width: 35
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3775
+        width: 116
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3713
+        width: 104
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3713
+        width: 100
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3713
+        width: 105
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3713
+        width: 100
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3713
+        width: 108
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3713
+        width: 116
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3713
+        width: 129
+        height: 114
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3592
+        width: 130
+        height: 181
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3590
+        width: 104
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3590
+        width: 98
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3590
+        width: 109
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3590
+        width: 100
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3590
+        width: 108
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3590
+        width: 116
+        height: 113
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_20
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3592
+        width: 129
+        height: 115
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3460
+        width: 36
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3460
+        width: 32
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3460
+        width: 32
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3460
+        width: 40
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3454
+        width: 44
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3338
+        width: 44
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3338
+        width: 42
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3338
+        width: 42
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3338
+        width: 86
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3336
+        width: 86
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_36
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3338
+        width: 88
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3348
+        width: 36
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3262
+        width: 88
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3245
+        width: 68
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3151
+        width: 58
+        height: 91
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3143
+        width: 46
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3143
+        width: 44
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3143
+        width: 40
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3143
+        width: 38
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3155
+        width: 64
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_49
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3151
+        width: 56
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3151
+        width: 57
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3143
+        width: 38
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3143
+        width: 41
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_59
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3151
+        width: 59
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_60
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3151
+        width: 58
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_66
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3049
+        width: 78
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3039
+        width: 52
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_69
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3037
+        width: 49
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_70
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3049
+        width: 64
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_71
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3049
+        width: 72
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_72
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3019
+        width: 76
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2915
+        width: 52
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2915
+        width: 56
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2915
+        width: 121
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_77
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2915
+        width: 94
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2792
+        width: 72
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2796
+        width: 98
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_80
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2792
+        width: 73
+        height: 110
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_81
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2792
+        width: 86
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2686
+        width: 38
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_83
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2686
+        width: 114
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_84
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2686
+        width: 85
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_85
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2686
+        width: 128
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_86
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2686
+        width: 62
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2572
+        width: 98
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2572
+        width: 86
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2570
+        width: 113
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2449
+        width: 40
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2449
+        width: 88
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2449
+        width: 107
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2449
+        width: 116
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_94
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2449
+        width: 120
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_95
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2449
+        width: 96
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_96
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2449
+        width: 82
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_97
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2449
+        width: 49
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2347
+        width: 98
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_103
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2349
+        width: 121
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_104
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2335
+        width: 76
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_105
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2335
+        width: 75
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_106
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2335
+        width: 74
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2204
+        width: 83
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2204
+        width: 70
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2204
+        width: 94
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_114
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2194
+        width: 72
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_115
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2196
+        width: 68
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_118
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2082
+        width: 52
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_119
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2082
+        width: 112
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_120
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2080
+        width: 91
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1954
+        width: 54
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1958
+        width: 49
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_124
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1946
+        width: 30
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1952
+        width: 60
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1960
+        width: 56
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1956
+        width: 44
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1853
+        width: 88
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1855
+        width: 98
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_131
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1853
+        width: 83
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_132
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1847
+        width: 102
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_133
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1843
+        width: 70
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_134
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1845
+        width: 48
+        height: 61
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_135
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1845
+        width: 52
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_138
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1723
+        width: 86
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_139
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1723
+        width: 80
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_140
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1719
+        width: 65
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_141
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1723
+        width: 68
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_142
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1723
+        width: 104
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_143
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1717
+        width: 58
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_144
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1715
+        width: 62
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1717
+        width: 44
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1644
+        width: 33
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_149
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1468
+        width: 44
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_150
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1472
+        width: 50
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1476
+        width: 82
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1476
+        width: 101
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1472
+        width: 98
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_154
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1470
+        width: 70
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_155
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1472
+        width: 112
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_156
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1470
+        width: 123
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_157
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1472
+        width: 94
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1344
+        width: 92
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_159
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1344
+        width: 88
+        height: 112
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1344
+        width: 91
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_161
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1344
+        width: 70
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_162
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1344
+        width: 78
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_163
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1342
+        width: 74
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_164
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1344
+        width: 72
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_165
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1332
+        width: 52
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_166
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1367
+        width: 15
+        height: 10
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_169
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1204
+        width: 135
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_170
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1204
+        width: 128
+        height: 124
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_171
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1204
+        width: 76
+        height: 120
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_172
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1204
+        width: 78
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_173
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1204
+        width: 76
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_174
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1204
+        width: 98
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_175
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1193
+        width: 52
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_178
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1051
+        width: 38
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_179
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1049
+        width: 94
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_180
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1051
+        width: 119
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_181
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1049
+        width: 112
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_182
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1051
+        width: 112
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_183
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1047
+        width: 94
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_184
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1051
+        width: 68
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_185
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1051
+        width: 57
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_186
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1051
+        width: 42
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_187
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1043
+        width: 44
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_188
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 951
+        width: 172
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_189
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 774
+        width: 185
+        height: 187
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_190
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 806
+        width: 44
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_191
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 812
+        width: 100
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_192
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 812
+        width: 101
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_193
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 804
+        width: 128
+        height: 127
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_194
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 794
+        width: 146
+        height: 147
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 578
+        width: 186
+        height: 186
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_196
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 578
+        width: 183
+        height: 184
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_197
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 572
+        width: 182
+        height: 182
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_198
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 656
+        width: 66
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_199
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 576
+        width: 185
+        height: 186
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_200
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 580
+        width: 186
+        height: 184
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_201
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 179
+        height: 179
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_203
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 417
+        width: 43
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_205
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 275
+        width: 82
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_206
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 275
+        width: 80
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_207
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 275
+        width: 78
+        height: 102
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_208
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 275
+        width: 68
+        height: 100
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_209
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 275
+        width: 68
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_210
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 275
+        width: 62
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_211
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 275
+        width: 70
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_212
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 48
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_213
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 275
+        width: 66
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_214
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 275
+        width: 69
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_215
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 275
+        width: 60
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_216
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 275
+        width: 60
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_218
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 142
+        width: 44
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_219
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 44
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_220
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 142
+        width: 44
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_221
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 142
+        width: 42
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 142
+        width: 42
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_223
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 140
+        width: 56
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_224
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 140
+        width: 58
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_225
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 45
+        width: 151
+        height: 197
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1724
+        width: 90
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1723
+        width: 104
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1622
+        width: 114
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1617
+        width: 80
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1363
+        width: 18
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1365
+        width: 18
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1364
+        width: 18
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3871
+        width: 35
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Erza_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3872
+        width: 28
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

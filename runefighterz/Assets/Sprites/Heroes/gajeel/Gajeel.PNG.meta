@@ -1,0 +1,2557 @@
+fileFormatVersion: 2
+guid: 6c93d3a023f12e64bbc999da6dfbcac9
+timeCreated: 1508426156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gajeel_3
+    21300002: Gajeel_4
+    21300004: Gajeel_5
+    21300006: Gajeel_6
+    21300008: Gajeel_8
+    21300010: Gajeel_9
+    21300012: Gajeel_10
+    21300014: Gajeel_11
+    21300016: Gajeel_12
+    21300018: Gajeel_13
+    21300020: Gajeel_17
+    21300022: Gajeel_18
+    21300024: Gajeel_19
+    21300026: Gajeel_20
+    21300028: Gajeel_21
+    21300030: Gajeel_22
+    21300032: Gajeel_23
+    21300034: Gajeel_24
+    21300036: Gajeel_25
+    21300038: Gajeel_29
+    21300040: Gajeel_30
+    21300042: Gajeel_31
+    21300044: Gajeel_32
+    21300046: Gajeel_33
+    21300048: Gajeel_34
+    21300050: Gajeel_35
+    21300052: Gajeel_36
+    21300054: Gajeel_37
+    21300056: Gajeel_38
+    21300058: Gajeel_39
+    21300060: Gajeel_43
+    21300062: Gajeel_44
+    21300064: Gajeel_45
+    21300066: Gajeel_46
+    21300068: Gajeel_47
+    21300070: Gajeel_48
+    21300072: Gajeel_49
+    21300074: Gajeel_50
+    21300076: Gajeel_53
+    21300078: Gajeel_54
+    21300080: Gajeel_55
+    21300082: Gajeel_56
+    21300084: Gajeel_57
+    21300086: Gajeel_58
+    21300088: Gajeel_59
+    21300090: Gajeel_66
+    21300092: Gajeel_67
+    21300094: Gajeel_68
+    21300096: Gajeel_69
+    21300098: Gajeel_70
+    21300100: Gajeel_71
+    21300102: Gajeel_76
+    21300104: Gajeel_77
+    21300106: Gajeel_78
+    21300108: Gajeel_79
+    21300110: Gajeel_80
+    21300112: Gajeel_81
+    21300114: Gajeel_83
+    21300116: Gajeel_84
+    21300118: Gajeel_85
+    21300120: Gajeel_86
+    21300122: Gajeel_87
+    21300124: Gajeel_88
+    21300126: Gajeel_89
+    21300128: Gajeel_90
+    21300130: Gajeel_91
+    21300132: Gajeel_92
+    21300134: Gajeel_93
+    21300136: Gajeel_95
+    21300138: Gajeel_96
+    21300140: Gajeel_97
+    21300142: Gajeel_98
+    21300144: Gajeel_99
+    21300146: Gajeel_100
+    21300148: Gajeel_101
+    21300150: Gajeel_102
+    21300152: Gajeel_103
+    21300154: Gajeel_104
+    21300156: Gajeel_105
+    21300158: Gajeel_106
+    21300160: Gajeel_107
+    21300162: Gajeel_108
+    21300164: Gajeel_109
+    21300166: Gajeel_110
+    21300168: Gajeel_111
+    21300170: Gajeel_114
+    21300172: Gajeel_115
+    21300174: Gajeel_116
+    21300176: Gajeel_117
+    21300178: Gajeel_119
+    21300180: Gajeel_120
+    21300182: Gajeel_121
+    21300184: Gajeel_122
+    21300186: Gajeel_123
+    21300188: Gajeel_124
+    21300190: Gajeel_125
+    21300192: Gajeel_126
+    21300194: Gajeel_127
+    21300196: Gajeel_128
+    21300198: Gajeel_129
+    21300200: Gajeel_130
+    21300202: Gajeel_133
+    21300204: Gajeel_134
+    21300206: Gajeel_135
+    21300208: Gajeel_136
+    21300210: Gajeel_137
+    21300212: Gajeel_138
+    21300214: Gajeel_139
+    21300216: Gajeel_140
+    21300218: Gajeel_141
+    21300220: Gajeel_144
+    21300222: Gajeel_145
+    21300224: Gajeel_146
+    21300226: Gajeel_147
+    21300228: Gajeel_148
+    21300230: Gajeel_149
+    21300232: Gajeel_150
+    21300234: Gajeel_151
+    21300236: Gajeel_152
+    21300238: Gajeel_155
+    21300240: Gajeel_156
+    21300242: Gajeel_157
+    21300244: Gajeel_158
+    21300246: Gajeel_159
+    21300248: Gajeel_160
+    21300250: Gajeel_161
+    21300252: Gajeel_164
+    21300254: Gajeel_165
+    21300256: Gajeel_168
+    21300258: Gajeel_171
+    21300260: Gajeel_172
+    21300262: Gajeel_174
+    21300264: Gajeel_176
+    21300266: Gajeel_178
+    21300268: Gajeel_186
+    21300270: Gajeel_187
+    21300272: Gajeel_188
+    21300274: Gajeel_189
+    21300276: Gajeel_190
+    21300278: Gajeel_191
+    21300280: Gajeel_192
+    21300282: Gajeel_195
+    21300284: Gajeel_196
+    21300286: Gajeel_197
+    21300288: Gajeel_198
+    21300290: Gajeel_199
+    21300292: Gajeel_200
+    21300294: Gajeel_201
+    21300296: Gajeel_202
+    21300298: Gajeel_203
+    21300300: Gajeel_204
+    21300302: Gajeel_205
+    21300304: Gajeel_206
+    21300306: Gajeel_207
+    21300308: Gajeel_208
+    21300310: Gajeel_211
+    21300312: Gajeel_212
+    21300314: Gajeel_213
+    21300316: Gajeel_214
+    21300318: Gajeel_215
+    21300320: Gajeel_216
+    21300322: Gajeel_217
+    21300324: Gajeel_218
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gajeel_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4056
+        width: 132
+        height: 196
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4200
+        width: 27
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4198
+        width: 36
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4059
+        width: 139
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4059
+        width: 116
+        height: 141
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4059
+        width: 123
+        height: 132
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4059
+        width: 124
+        height: 139
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 4056
+        width: 124
+        height: 140
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 4056
+        width: 123
+        height: 133
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 4056
+        width: 124
+        height: 140
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3839
+        width: 52
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3839
+        width: 52
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3839
+        width: 56
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3839
+        width: 52
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3839
+        width: 51
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3839
+        width: 51
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3839
+        width: 52
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3839
+        width: 52
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3839
+        width: 60
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3643
+        width: 59
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3643
+        width: 61
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3643
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3643
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3643
+        width: 59
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_34
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3643
+        width: 58
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3643
+        width: 61
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3643
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_37
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3643
+        width: 59
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_38
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3643
+        width: 58
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_39
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3641
+        width: 61
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3477
+        width: 42
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_44
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3477
+        width: 43
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3477
+        width: 52
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3477
+        width: 42
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3477
+        width: 43
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3477
+        width: 56
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3484
+        width: 70
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_50
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 3484
+        width: 56
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3300
+        width: 58
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3300
+        width: 51
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3300
+        width: 51
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_56
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3300
+        width: 54
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3300
+        width: 52
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_58
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3300
+        width: 51
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3300
+        width: 51
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3127
+        width: 50
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3131
+        width: 61
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3133
+        width: 49
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_69
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3163
+        width: 52
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_70
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3124
+        width: 65
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_71
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3109
+        width: 58
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2922
+        width: 58
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2936
+        width: 54
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2927
+        width: 59
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2927
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_80
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2927
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2927
+        width: 58
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2758
+        width: 58
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2758
+        width: 59
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2758
+        width: 63
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2758
+        width: 61
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2767
+        width: 83
+        height: 54
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_88
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2774
+        width: 90
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2765
+        width: 88
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_90
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2749
+        width: 96
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_91
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2754
+        width: 72
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_92
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2758
+        width: 61
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2760
+        width: 38
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2579
+        width: 58
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_96
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2579
+        width: 77
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2579
+        width: 59
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2579
+        width: 63
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2579
+        width: 77
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2579
+        width: 61
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_101
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2579
+        width: 61
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2579
+        width: 76
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_103
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2579
+        width: 58
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2439
+        width: 59
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_105
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2439
+        width: 79
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2439
+        width: 61
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_107
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2439
+        width: 61
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_108
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2439
+        width: 65
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_109
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2439
+        width: 59
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_110
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2439
+        width: 112
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_111
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2439
+        width: 68
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_114
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2161
+        width: 63
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2179
+        width: 59
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2174
+        width: 110
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_117
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2167
+        width: 61
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1941
+        width: 65
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1941
+        width: 67
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_121
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1941
+        width: 65
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1941
+        width: 88
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_123
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1941
+        width: 115
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_124
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1941
+        width: 153
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_125
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1941
+        width: 152
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1806
+        width: 153
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_127
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1806
+        width: 153
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_128
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1806
+        width: 153
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_129
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1806
+        width: 155
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_130
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1829
+        width: 98
+        height: 84
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_133
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1649
+        width: 27
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_134
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1644
+        width: 51
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_135
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1637
+        width: 93
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1637
+        width: 90
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_137
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1642
+        width: 92
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_138
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1646
+        width: 93
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_139
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1644
+        width: 92
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_140
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1646
+        width: 95
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_141
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1640
+        width: 90
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_144
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1422
+        width: 72
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1422
+        width: 76
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_146
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1422
+        width: 58
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_147
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1422
+        width: 119
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_148
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1422
+        width: 146
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_149
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1422
+        width: 151
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_150
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1422
+        width: 146
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_151
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1422
+        width: 122
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_152
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1422
+        width: 59
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_155
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1179
+        width: 97
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_156
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1179
+        width: 132
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_157
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1179
+        width: 107
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_158
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1179
+        width: 104
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_159
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1179
+        width: 117
+        height: 135
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_160
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1179
+        width: 84
+        height: 130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_161
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1179
+        width: 61
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1013
+        width: 77
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_165
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1013
+        width: 83
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_168
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 860
+        width: 147
+        height: 108
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_171
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 860
+        width: 146
+        height: 118
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_172
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 860
+        width: 152
+        height: 117
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_174
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 860
+        width: 163
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_176
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 860
+        width: 158
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_178
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 860
+        width: 161
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_186
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 721
+        width: 76
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_187
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 721
+        width: 80
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_188
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 721
+        width: 77
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_189
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 721
+        width: 101
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_190
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 721
+        width: 107
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_191
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 721
+        width: 101
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_192
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 721
+        width: 58
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_195
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 530
+        width: 65
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_196
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 530
+        width: 59
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_197
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 530
+        width: 58
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_198
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 530
+        width: 56
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_199
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 530
+        width: 97
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_200
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 530
+        width: 123
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_201
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 530
+        width: 133
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_202
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 386
+        width: 162
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_203
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 368
+        width: 182
+        height: 137
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_204
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 386
+        width: 162
+        height: 97
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_205
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 386
+        width: 133
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_206
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 265
+        width: 123
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_207
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 265
+        width: 96
+        height: 81
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_208
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 265
+        width: 65
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_211
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 74
+        width: 59
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_212
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 54
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_213
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 74
+        width: 54
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_214
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 74
+        width: 54
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_215
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 74
+        width: 52
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_216
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 74
+        width: 59
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_217
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 74
+        width: 59
+        height: 85
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajeel_218
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 74
+        width: 59
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

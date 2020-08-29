@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 1ef7eb3662c2a6349915cff1530fbedc
+timeCreated: 1509496025
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_0
+    21300002: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_1
+    21300004: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_2
+    21300006: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_3
+    21300008: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_4
+    21300010: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_5
+    21300012: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_6
+    21300014: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_7
+    21300016: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_8
+    21300018: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_9
+    21300020: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_10
+    21300022: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_11
+    21300024: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_12
+    21300026: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_13
+    21300028: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_14
+    21300030: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_15
+    21300032: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier_16
+    21300034: rebel_soldier_0
+    21300036: rebel_soldier_1
+    21300038: rebel_soldier_2
+    21300040: rebel_soldier_3
+    21300042: rebel_soldier_4
+    21300044: rebel_soldier_5
+    21300046: rebel_soldier_6
+    21300048: rebel_soldier_7
+    21300050: rebel_soldier_8
+    21300052: rebel_soldier_9
+    21300054: rebel_soldier_10
+    21300056: rebel_soldier_11
+    21300058: rebel_soldier_12
+    21300060: rebel_soldier_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rebel_soldier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 1128
+        height: 1630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 708
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 708
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 708
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rebel_soldier_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1128
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

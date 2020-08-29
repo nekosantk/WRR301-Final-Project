@@ -1,0 +1,19 @@
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.exe
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.pdb
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\Lidgren.Network.dll
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\Lidgren.Network.pdb
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\Lidgren.Network.xml
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.exe
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.pdb
+c:\users\mark\documents\visual studio 2015\Projects\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\serverlist.txt
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.exe.config
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.exe
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.exe
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\runefighterz-loadbalancer.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\Lidgren.Network.pdb
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\Lidgren.Network.xml
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\obj\Debug\runefighterz-loadbalancer.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\runefighterz-loadbalancer\runefighterz-loadbalancer\bin\Debug\config.ini
